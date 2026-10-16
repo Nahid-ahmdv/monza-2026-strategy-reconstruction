@@ -1,0 +1,27 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# FastF1 download caches
+.fastf1_cache/
+fastf1_cache/
+
+# Local secrets, while allowing example configuration
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local article drafts
+/articles/
+
+# Downloaded third-party reference material
+/data/sources/
+
+# Operating system
+.DS_Store
