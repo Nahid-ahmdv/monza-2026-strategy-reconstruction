@@ -1,0 +1,9 @@
+variant,drivers with a long run,extra vs Ruth,missing vs Ruth,compound matches,clean-lap matches,gap within 0.005 s,max |gap error| s,same selected stints as baseline
+baseline,19,BEA,-,18,18,18,0.0049,True
+one-sided 2 % (t <= 1.02 median),19,BEA,-,18,18,18,0.0049,True
+no green-flag filter,19,BEA,-,18,18,18,0.0049,True
+median over all timed laps (before in/out removal),19,BEA,-,18,18,18,0.0049,True
+iterate the median until stable,19,BEA,-,18,18,18,0.0049,True
+also require FastF1 IsAccurate,19,BEA,-,18,18,18,0.0049,True
+1 % tolerance,18,-,-,18,11,11,0.2366,False
+3 % tolerance,19,BEA,-,18,15,15,0.2933,True

@@ -1,0 +1,20 @@
+driver,in Ruth's table,long run found here,compound (Ruth),compound (here),laps (Ruth),clean laps (here),"mean lap s (Ruth, 0.1)",mean lap s (here),gap s (Ruth),gap s (here),|gap error| s,compound ok,laps ok,mean ok (0.1 s),gap ok (≤0.005)
+LAW,True,True,HARD,HARD,12.0,12,86.1,86.063,0.0,0.0,0.0,True,True,True,True
+ANT,True,True,HARD,HARD,17.0,17,86.2,86.156,0.09,0.0923,0.0023,True,True,True,True
+RUS,True,True,HARD,HARD,10.0,10,86.2,86.208,0.14,0.1448,0.0048,True,True,True,True
+LEC,True,True,SOFT,SOFT,8.0,8,86.2,86.215,0.15,0.1516,0.0016,True,True,True,True
+HAM,True,True,SOFT,SOFT,9.0,9,86.2,86.24,0.18,0.1761,0.0039,True,True,True,True
+NOR,True,True,HARD,HARD,5.0,5,86.5,86.506,0.44,0.4423,0.0023,True,True,True,True
+VER,True,True,MEDIUM,MEDIUM,5.0,5,86.5,86.522,0.46,0.4587,0.0013,True,True,True,True
+LIN,True,True,MEDIUM,MEDIUM,10.0,10,86.9,86.924,0.86,0.8609,0.0009,True,True,True,True
+GAS,True,True,HARD,HARD,8.0,8,87.1,87.12,1.06,1.0563,0.0037,True,True,True,True
+COL,True,True,SOFT,SOFT,6.0,6,87.2,87.154,1.09,1.0903,0.0003,True,True,True,True
+TSU,True,True,MEDIUM,MEDIUM,10.0,10,87.4,87.423,1.36,1.3597,0.0003,True,True,True,True
+BEA,False,True,,MEDIUM,,6,,87.506,,1.4422,,False,False,False,False
+SAI,True,True,SOFT,SOFT,10.0,10,87.6,87.617,1.55,1.5539,0.0039,True,True,True,True
+HUL,True,True,SOFT,SOFT,8.0,8,87.7,87.67,1.61,1.6063,0.0037,True,True,True,True
+ALB,True,True,MEDIUM,MEDIUM,10.0,10,87.7,87.734,1.67,1.67,0.0,True,True,True,True
+OCO,True,True,SOFT,SOFT,7.0,7,87.8,87.798,1.73,1.7341,0.0041,True,True,True,True
+BOT,True,True,SOFT,SOFT,9.0,9,88.4,88.438,2.37,2.3743,0.0043,True,True,True,True
+PER,True,True,SOFT,SOFT,8.0,8,88.7,88.702,2.64,2.6383,0.0017,True,True,True,True
+STR,True,True,SOFT,SOFT,7.0,7,90.2,90.178,4.11,4.1149,0.0049,True,True,True,True

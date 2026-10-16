@@ -1,0 +1,15 @@
+Clean-room reproducibility check, run 2026-10-08, runtime 87 s
+environment: fresh virtual environment built only from requirements.txt (Python 3.13.2: numpy 2.5.3, pandas 2.3.3,
+             scipy 1.18.1, matplotlib 3.11.2), kernel race-sim-ruth registered inside that environment;
+             project copied WITHOUT .venv, outputs/, racesim/ and tests/ (the notebook regenerated them);
+             network blocked for the run (HTTP(S) proxies pointed at a closed local port); the notebook code makes
+             no network calls (all inputs are read from data/).
+code cells executed: 72; cells with errors: 0
+cells whose outputs differ from the delivered notebook (after masking interpreter paths and object ids): none in
+             content. Differences found and explained: the interpreter path (environment cell); "Writing" instead
+             of "Overwriting" in the 16 %%writefile cells (the clean copy had no racesim/ or tests/).
+generated racesim/ and tests/ files byte-identical to the delivered ones: True (16 files)
+result tables byte-identical: True (9 tables)
+lap-by-lap records and event logs byte-identical: True (30 files)
+figures byte-identical: True (17 figures)
+inside the run: pytest 113 passed; fingerprint checks (configuration, code, effective specification) passed.

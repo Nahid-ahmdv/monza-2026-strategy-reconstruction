@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1048.32pt" height="748.8pt" viewBox="0 0 1048.32 748.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-08T23:21:00.426913</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 748.8 
+L 1048.32 748.8 
+L 1048.32 0 
+L 0 0 
+z
+" style="fill: #f5f0e8"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 271.51488 645.4656 
+L 1006.3872 645.4656 
+L 1006.3872 150.5088 
+L 271.51488 150.5088 
+z
+" clip-path="url(#p6686088287)" style="fill: #fcf9f3"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 280.4256 295.776 
+L 410.41728 295.776 
+Q 413.03808 295.776 413.03808 293.904 
+L 413.03808 173.3472 
+Q 413.03808 171.4752 410.41728 171.4752 
+L 280.4256 171.4752 
+Q 277.8048 171.4752 277.8048 173.3472 
+L 277.8048 293.904 
+Q 277.8048 295.776 280.4256 295.776 
+z
+" clip-path="url(#p6686088287)" style="fill: #f1e6c8"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 428.23872 295.776 
+L 558.2304 295.776 
+Q 560.8512 295.776 560.8512 293.904 
+L 560.8512 173.3472 
+Q 560.8512 171.4752 558.2304 171.4752 
+L 428.23872 171.4752 
+Q 425.61792 171.4752 425.61792 173.3472 
+L 425.61792 293.904 
+Q 425.61792 295.776 428.23872 295.776 
+z
+" clip-path="url(#p6686088287)" style="fill: #e2deda"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 576.05184 295.776 
+L 706.04352 295.776 
+Q 708.66432 295.776 708.66432 293.904 
+L 708.66432 173.3472 
+Q 708.66432 171.4752 706.04352 171.4752 
+L 576.05184 171.4752 
+Q 573.43104 171.4752 573.43104 173.3472 
+L 573.43104 293.904 
+Q 573.43104 295.776 576.05184 295.776 
+z
+" clip-path="url(#p6686088287)" style="fill: #e2deda"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 723.86496 295.776 
+L 853.85664 295.776 
+Q 856.47744 295.776 856.47744 293.904 
+L 856.47744 173.3472 
+Q 856.47744 171.4752 853.85664 171.4752 
+L 723.86496 171.4752 
+Q 721.24416 171.4752 721.24416 173.3472 
+L 721.24416 293.904 
+Q 721.24416 295.776 723.86496 295.776 
+z
+" clip-path="url(#p6686088287)" style="fill: #e2deda"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 871.67808 295.776 
+L 1001.66976 295.776 
+Q 1004.29056 295.776 1004.29056 293.904 
+L 1004.29056 173.3472 
+Q 1004.29056 171.4752 1001.66976 171.4752 
+L 871.67808 171.4752 
+Q 869.05728 171.4752 869.05728 173.3472 
+L 869.05728 293.904 
+Q 869.05728 295.776 871.67808 295.776 
+z
+" clip-path="url(#p6686088287)" style="fill: #f1e6c8"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 280.4256 460.512 
+L 410.41728 460.512 
+Q 413.03808 460.512 413.03808 458.64 
+L 413.03808 338.0832 
+Q 413.03808 336.2112 410.41728 336.2112 
+L 280.4256 336.2112 
+Q 277.8048 336.2112 277.8048 338.0832 
+L 277.8048 458.64 
+Q 277.8048 460.512 280.4256 460.512 
+z
+" clip-path="url(#p6686088287)" style="fill: #f1e6c8"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 428.23872 460.512 
+L 558.2304 460.512 
+Q 560.8512 460.512 560.8512 458.64 
+L 560.8512 338.0832 
+Q 560.8512 336.2112 558.2304 336.2112 
+L 428.23872 336.2112 
+Q 425.61792 336.2112 425.61792 338.0832 
+L 425.61792 458.64 
+Q 425.61792 460.512 428.23872 460.512 
+z
+" clip-path="url(#p6686088287)" style="fill: #f1e6c8"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 576.05184 460.512 
+L 706.04352 460.512 
+Q 708.66432 460.512 708.66432 458.64 
+L 708.66432 338.0832 
+Q 708.66432 336.2112 706.04352 336.2112 
+L 576.05184 336.2112 
+Q 573.43104 336.2112 573.43104 338.0832 
+L 573.43104 458.64 
+Q 573.43104 460.512 576.05184 460.512 
+z
+" clip-path="url(#p6686088287)" style="fill: #ecd1cb"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 723.86496 460.512 
+L 853.85664 460.512 
+Q 856.47744 460.512 856.47744 458.64 
+L 856.47744 338.0832 
+Q 856.47744 336.2112 853.85664 336.2112 
+L 723.86496 336.2112 
+Q 721.24416 336.2112 721.24416 338.0832 
+L 721.24416 458.64 
+Q 721.24416 460.512 723.86496 460.512 
+z
+" clip-path="url(#p6686088287)" style="fill: #f1e6c8"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 871.67808 460.512 
+L 1001.66976 460.512 
+Q 1004.29056 460.512 1004.29056 458.64 
+L 1004.29056 338.0832 
+Q 1004.29056 336.2112 1001.66976 336.2112 
+L 871.67808 336.2112 
+Q 869.05728 336.2112 869.05728 338.0832 
+L 869.05728 458.64 
+Q 869.05728 460.512 871.67808 460.512 
+z
+" clip-path="url(#p6686088287)" style="fill: #d3decf"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 280.4256 625.248 
+L 410.41728 625.248 
+Q 413.03808 625.248 413.03808 623.376 
+L 413.03808 502.8192 
+Q 413.03808 500.9472 410.41728 500.9472 
+L 280.4256 500.9472 
+Q 277.8048 500.9472 277.8048 502.8192 
+L 277.8048 623.376 
+Q 277.8048 625.248 280.4256 625.248 
+z
+" clip-path="url(#p6686088287)" style="fill: #e2deda"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 428.23872 625.248 
+L 558.2304 625.248 
+Q 560.8512 625.248 560.8512 623.376 
+L 560.8512 502.8192 
+Q 560.8512 500.9472 558.2304 500.9472 
+L 428.23872 500.9472 
+Q 425.61792 500.9472 425.61792 502.8192 
+L 425.61792 623.376 
+Q 425.61792 625.248 428.23872 625.248 
+z
+" clip-path="url(#p6686088287)" style="fill: #e2deda"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 576.05184 625.248 
+L 706.04352 625.248 
+Q 708.66432 625.248 708.66432 623.376 
+L 708.66432 502.8192 
+Q 708.66432 500.9472 706.04352 500.9472 
+L 576.05184 500.9472 
+Q 573.43104 500.9472 573.43104 502.8192 
+L 573.43104 623.376 
+Q 573.43104 625.248 576.05184 625.248 
+z
+" clip-path="url(#p6686088287)" style="fill: #e2deda"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 723.86496 625.248 
+L 853.85664 625.248 
+Q 856.47744 625.248 856.47744 623.376 
+L 856.47744 502.8192 
+Q 856.47744 500.9472 853.85664 500.9472 
+L 723.86496 500.9472 
+Q 721.24416 500.9472 721.24416 502.8192 
+L 721.24416 623.376 
+Q 721.24416 625.248 723.86496 625.248 
+z
+" clip-path="url(#p6686088287)" style="fill: #e2deda"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 871.67808 625.248 
+L 1001.66976 625.248 
+Q 1004.29056 625.248 1004.29056 623.376 
+L 1004.29056 502.8192 
+Q 1004.29056 500.9472 1001.66976 500.9472 
+L 871.67808 500.9472 
+Q 869.05728 500.9472 869.05728 502.8192 
+L 869.05728 623.376 
+Q 869.05728 625.248 871.67808 625.248 
+z
+" clip-path="url(#p6686088287)" style="fill: #e2deda"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 263.12832 680.6592 
+L 275.70816 680.6592 
+L 275.70816 671.6736 
+L 263.12832 671.6736 
+z
+" clip-path="url(#p6686088287)" style="fill: #d3decf"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 372.1536 680.6592 
+L 384.73344 680.6592 
+L 384.73344 671.6736 
+L 372.1536 671.6736 
+z
+" clip-path="url(#p6686088287)" style="fill: #f1e6c8"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 481.17888 680.6592 
+L 493.75872 680.6592 
+L 493.75872 671.6736 
+L 481.17888 671.6736 
+z
+" clip-path="url(#p6686088287)" style="fill: #e2deda"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 590.20416 680.6592 
+L 602.784 680.6592 
+L 602.784 671.6736 
+L 590.20416 671.6736 
+z
+" clip-path="url(#p6686088287)" style="fill: #ecd1cb"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 345.42144 150.5088 
+L 345.42144 147.5136 
+" clip-path="url(#p6686088287)" style="fill: none; stroke: #242421; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 493.23456 150.5088 
+L 493.23456 147.5136 
+" clip-path="url(#p6686088287)" style="fill: none; stroke: #242421; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 641.04768 150.5088 
+L 641.04768 147.5136 
+" clip-path="url(#p6686088287)" style="fill: none; stroke: #242421; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 788.8608 150.5088 
+L 788.8608 147.5136 
+" clip-path="url(#p6686088287)" style="fill: none; stroke: #242421; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 936.67392 150.5088 
+L 936.67392 147.5136 
+" clip-path="url(#p6686088287)" style="fill: none; stroke: #242421; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a96808" x="52.416" y="29.013469" transform="rotate(-0 52.416 29.013469)">MONZA 2026  ·  ANTONELLI FROM THE BACK  ·  THREE PLANS, FIVE RACES</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #a96808" x="1006.3872" y="28.857609" transform="rotate(-0 1006.3872 28.857609)">MODEL RESULTS</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Serif'; text-anchor: start; fill: #242421" x="52.416" y="66.857498" transform="rotate(-0 52.416 66.857498)">A quiet-race tie on position. The hard start is 5.2 seconds quicker.</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242421" transform="translate(52.416 99.935938)">Simulated finishing positions from a pit-lane start: 53 laps, 22 cars; 22s pit loss, 11s under the Safety Car. Hard degradation: 0.015s/lap.</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242421" transform="translate(52.416 114.245937)">A and B both finish P3 without a Safety Car. Early or mid-race neutralisation hurts the lap-one stop; the conventional plan finishes P8 throughout.</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="345.42144" y="139.888252" transform="rotate(-0 345.42144 139.888252)">no safety car</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="493.23456" y="139.888252" transform="rotate(-0 493.23456 139.888252)">SC lap 1</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="641.04768" y="139.888252" transform="rotate(-0 641.04768 139.888252)">SC lap 5</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="788.8608" y="139.888252" transform="rotate(-0 788.8608 139.888252)">SC lap 20</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="936.67392" y="139.888252" transform="rotate(-0 936.67392 139.888252)">SC lap 35</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 11.4px; font-family: 'DejaVu Sans'; fill: #242421" transform="translate(195.237322 230.786288)">Box lap 1</text>
+    <text style="font-weight: 700; font-size: 11.4px; font-family: 'DejaVu Sans'; fill: #242421" transform="translate(154.36476 242.711756)">hard to the flag</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="345.42144" y="223.875409" transform="rotate(-0 345.42144 223.875409)">P3</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="345.42144" y="274.979384" transform="rotate(-0 345.42144 274.979384)">+14.9s to the winner</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="493.23456" y="223.875409" transform="rotate(-0 493.23456 223.875409)">P8</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="493.23456" y="274.979384" transform="rotate(-0 493.23456 274.979384)">+28.4s to the winner</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="641.04768" y="223.875409" transform="rotate(-0 641.04768 223.875409)">P8</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="641.04768" y="274.979384" transform="rotate(-0 641.04768 274.979384)">+27.0s to the winner</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="788.8608" y="223.875409" transform="rotate(-0 788.8608 223.875409)">P8</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="788.8608" y="274.979384" transform="rotate(-0 788.8608 274.979384)">+20.0s to the winner</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="936.67392" y="223.875409" transform="rotate(-0 936.67392 223.875409)">P3</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="936.67392" y="274.979384" transform="rotate(-0 936.67392 274.979384)">+7.3s to the winner</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 11.4px; font-family: 'DejaVu Sans'; fill: #242421" transform="translate(147.649447 395.522288)">Start hard, go long</text>
+    <text style="font-size: 11.4px; font-family: 'DejaVu Sans'; fill: #242421" transform="translate(153.668291 407.492288)">medium at lap 36</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="345.42144" y="388.611409" transform="rotate(-0 345.42144 388.611409)">P3</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="345.42144" y="439.715384" transform="rotate(-0 345.42144 439.715384)">+9.7s to the winner</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="493.23456" y="388.611409" transform="rotate(-0 493.23456 388.611409)">P3</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="493.23456" y="439.715384" transform="rotate(-0 493.23456 439.715384)">+18.6s to the winner</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="641.04768" y="388.611409" transform="rotate(-0 641.04768 388.611409)">P10</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="641.04768" y="439.715384" transform="rotate(-0 641.04768 439.715384)">+39.7s to the winner</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="788.8608" y="388.611409" transform="rotate(-0 788.8608 388.611409)">P3</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="788.8608" y="439.715384" transform="rotate(-0 788.8608 439.715384)">+15.0s to the winner</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="936.67392" y="388.611409" transform="rotate(-0 936.67392 388.611409)">P1</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="936.67392" y="439.715384" transform="rotate(-0 936.67392 439.715384)">+0.0s to the winner</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 11.4px; font-family: 'DejaVu Sans'; fill: #242421" transform="translate(179.605072 561.362663)">Conventional</text>
+    <text style="font-size: 11.4px; font-family: 'DejaVu Sans'; fill: #242421" transform="translate(103.698885 572.228288)">medium, stop lap 20, hard</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="345.42144" y="553.347409" transform="rotate(-0 345.42144 553.347409)">P8</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="345.42144" y="604.451384" transform="rotate(-0 345.42144 604.451384)">+30.2s to the winner</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="493.23456" y="553.347409" transform="rotate(-0 493.23456 553.347409)">P8</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="493.23456" y="604.451384" transform="rotate(-0 493.23456 604.451384)">+28.4s to the winner</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="641.04768" y="553.347409" transform="rotate(-0 641.04768 553.347409)">P8</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="641.04768" y="604.451384" transform="rotate(-0 641.04768 604.451384)">+27.0s to the winner</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="788.8608" y="553.347409" transform="rotate(-0 788.8608 553.347409)">P8</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="788.8608" y="604.451384" transform="rotate(-0 788.8608 604.451384)">+19.8s to the winner</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="936.67392" y="553.347409" transform="rotate(-0 936.67392 553.347409)">P8</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #242421" x="936.67392" y="604.451384" transform="rotate(-0 936.67392 604.451384)">+12.5s to the winner</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7c7b73" x="52.416" y="678.270502" transform="rotate(-0 52.416 678.270502)">FINISHING-POSITION BANDS</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7c7b73" x="281.99808" y="678.426361" transform="rotate(-0 281.99808 678.426361)">P1</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7c7b73" x="391.02336" y="678.426361" transform="rotate(-0 391.02336 678.426361)">P2–P6</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7c7b73" x="500.04864" y="678.426361" transform="rotate(-0 500.04864 678.426361)">P7–P8</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7c7b73" x="609.07392" y="678.426361" transform="rotate(-0 609.07392 678.426361)">P9+</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #7c7b73" x="1006.3872" y="678.426701" transform="rotate(-0 1006.3872 678.426701)">Independent reconstruction · Not a validated forecast</text>
+   </g>
+   <g id="text_49">
+    <text style="font-style: italic; font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #7c7b73" transform="translate(52.416 707.925688)">Baseline: hard 0.015s/lap, medium 0.05, soft 0.10; medium and soft are 0.20s and 0.35s quicker than a new hard. Fuel effect: 0.07s/lap.</text>
+    <text style="font-style: italic; font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #7c7b73" transform="translate(52.416 718.995688)">Dirty air costs 0.25s/lap within 2s; passing requires a 0.35s/lap advantage and time crossing. Safety Car: one shared, fixed-duration window.</text>
+    <text style="font-style: italic; font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #7c7b73" transform="translate(52.416 729.951656)">Source: saved project baseline results (antonelli_15_scenarios.csv). Gaps are to each scenario's own winner, rounded to 0.1s. Layout inspired by Ruth Buscombe's briefing.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6686088287">
+   <rect x="0" y="0" width="1048.32" height="748.8"/>
+  </clipPath>
+ </defs>
+</svg>

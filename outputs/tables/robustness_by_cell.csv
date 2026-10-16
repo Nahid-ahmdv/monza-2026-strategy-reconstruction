@@ -1,0 +1,16 @@
+strategy,sc_lap,Ruth,baseline,min,median,max,share within ±1 of baseline,share within ±1 of Ruth,verdict
+A,none,4,3,1,3.0,5,0.79,0.76,moderately sensitive
+A,1,9,8,8,8.0,11,0.85,0.97,robust
+A,5,11,8,8,8.0,12,0.82,0.18,robust
+A,20,10,8,2,8.0,11,0.79,0.26,moderately sensitive
+A,35,4,3,1,3.0,5,0.79,0.76,moderately sensitive
+B,none,6,3,2,3.0,7,0.85,0.15,robust
+B,1,9,3,2,3.0,8,0.76,0.15,moderately sensitive
+B,5,10,10,5,10.0,12,0.71,0.71,moderately sensitive
+B,20,8,3,2,3.0,9,0.71,0.29,moderately sensitive
+B,35,1,1,1,1.0,2,1.0,1.0,robust
+C,none,8,8,4,8.0,10,0.76,0.76,moderately sensitive
+C,1,9,8,8,8.0,11,0.85,0.97,robust
+C,5,9,8,8,8.0,11,0.85,0.97,robust
+C,20,8,8,1,8.0,10,0.88,0.88,robust
+C,35,8,8,4,8.0,10,0.76,0.76,moderately sensitive

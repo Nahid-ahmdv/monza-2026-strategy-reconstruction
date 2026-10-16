@@ -1,0 +1,619 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,Deleted,IsAccurate,LapTime_s,PitIn,PitOut,reason,stint_median_s,deviation_pct,clean
+NOR,McLaren,1,1,HARD,1.0,True,1,,False,,False,True,no lap time,84.152,,False
+NOR,McLaren,2,1,HARD,2.0,True,1,,True,84.06,False,False,,84.152,-0.10932598155718075,True
+NOR,McLaren,3,1,HARD,3.0,True,1,,True,139.286,False,False,outside 2% of stint median,84.152,65.51715942580093,False
+NOR,McLaren,4,1,HARD,4.0,True,1,,True,84.152,False,False,,84.152,0.0,True
+NOR,McLaren,5,1,HARD,5.0,True,1,,True,130.094,False,False,outside 2% of stint median,84.152,54.59406787717462,False
+NOR,McLaren,6,1,HARD,6.0,True,1,,True,83.796,False,False,,84.152,-0.42304401559082916,True
+NOR,McLaren,7,1,HARD,7.0,True,1,,False,114.044,True,False,in-lap,84.152,,False
+NOR,McLaren,8,2,SOFT,1.0,True,1,,False,,False,True,no lap time,93.0835,,False
+NOR,McLaren,9,2,SOFT,2.0,True,1,,True,103.177,False,False,outside 2% of stint median,93.0835,10.843489984798602,False
+NOR,McLaren,10,2,SOFT,3.0,True,1,,True,82.943,False,False,outside 2% of stint median,93.0835,-10.89398228472286,False
+NOR,McLaren,11,2,SOFT,4.0,True,1,,True,133.511,False,False,outside 2% of stint median,93.0835,43.43143521676774,False
+NOR,McLaren,12,2,SOFT,5.0,True,1,,True,82.99,False,False,outside 2% of stint median,93.0835,-10.843489984798602,False
+NOR,McLaren,13,2,SOFT,6.0,True,1,,False,97.088,True,False,in-lap,93.0835,,False
+NOR,McLaren,14,3,HARD,8.0,False,1,,False,,False,True,no lap time,86.5255,,False
+NOR,McLaren,15,3,HARD,9.0,False,1,,True,86.361,False,False,,86.5255,-0.19011736424521056,True
+NOR,McLaren,16,3,HARD,10.0,False,1,,True,86.28,False,False,,86.5255,-0.28373138554529326,True
+NOR,McLaren,17,3,HARD,11.0,False,1,,True,86.69,False,False,,86.5255,0.190117364245227,True
+NOR,McLaren,18,3,HARD,12.0,False,1,,True,86.311,False,False,,86.5255,-0.24790379714649072,True
+NOR,McLaren,19,3,HARD,13.0,False,1,,True,89.487,False,False,outside 2% of stint median,86.5255,3.4226904207430193,False
+NOR,McLaren,20,3,HARD,14.0,False,1,,True,86.887,False,False,,86.5255,0.4177959098762869,True
+NOR,McLaren,21,3,HARD,15.0,False,1,,False,91.033,True,False,in-lap,86.5255,,False
+NOR,McLaren,22,4,SOFT,7.0,False,1,,False,106.951,False,True,out-lap,107.037,,False
+NOR,McLaren,23,4,SOFT,8.0,False,1,,True,107.037,False,False,,107.037,0.0,True
+NOR,McLaren,24,4,SOFT,9.0,False,1,,False,,False,False,no lap time,107.037,,False
+NOR,McLaren,25,4,SOFT,10.0,False,1,,False,146.527,True,False,in-lap,107.037,,False
+VER,Red Bull Racing,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,85.23,,False
+VER,Red Bull Racing,2,1,MEDIUM,2.0,True,1,,True,84.719,False,False,,85.23,-0.5995541476006216,True
+VER,Red Bull Racing,3,1,MEDIUM,3.0,True,1,,True,142.547,False,False,outside 2% of stint median,85.23,67.2497946732371,False
+VER,Red Bull Racing,4,1,MEDIUM,4.0,True,1,,True,85.23,False,False,,85.23,0.0,True
+VER,Red Bull Racing,5,1,MEDIUM,5.0,True,1,,False,119.903,True,False,in-lap,85.23,,False
+VER,Red Bull Racing,6,2,MEDIUM,6.0,False,1,,False,141.483,False,True,out-lap,102.8115,,False
+VER,Red Bull Racing,7,2,MEDIUM,7.0,False,1,,True,83.95,False,False,outside 2% of stint median,102.8115,-18.345710353413764,False
+VER,Red Bull Racing,8,2,MEDIUM,8.0,False,1,,True,126.738,False,False,outside 2% of stint median,102.8115,23.272202039655102,False
+VER,Red Bull Racing,9,2,MEDIUM,9.0,False,1,,True,121.673,False,False,outside 2% of stint median,102.8115,18.34571035341378,False
+VER,Red Bull Racing,10,2,MEDIUM,10.0,False,1,,True,83.749,False,False,outside 2% of stint median,102.8115,-18.541213774723644,False
+VER,Red Bull Racing,11,2,MEDIUM,11.0,False,1,,False,99.552,True,False,in-lap,102.8115,,False
+VER,Red Bull Racing,12,3,SOFT,1.0,True,1,,False,,False,True,no lap time,83.487,,False
+VER,Red Bull Racing,13,3,SOFT,2.0,True,1,,True,83.487,False,False,,83.487,0.0,True
+VER,Red Bull Racing,14,3,SOFT,3.0,True,1,,True,121.758,False,False,outside 2% of stint median,83.487,45.8406698048798,False
+VER,Red Bull Racing,15,3,SOFT,4.0,True,1,,True,83.377,False,False,,83.487,-0.13175704001820576,True
+VER,Red Bull Racing,16,3,SOFT,5.0,True,1,,False,99.713,True,False,in-lap,83.487,,False
+VER,Red Bull Racing,17,4,MEDIUM,12.0,False,1,,False,,False,True,no lap time,86.605,,False
+VER,Red Bull Racing,18,4,MEDIUM,13.0,False,1,,True,86.641,False,False,,86.605,0.041568038796837785,True
+VER,Red Bull Racing,19,4,MEDIUM,14.0,False,1,,True,86.45,False,False,,86.605,-0.17897350037526832,True
+VER,Red Bull Racing,20,4,MEDIUM,15.0,False,1,,True,86.605,False,False,,86.605,0.0,True
+VER,Red Bull Racing,21,4,MEDIUM,16.0,False,1,,True,86.741,False,False,,86.605,0.15703481323248736,True
+VER,Red Bull Racing,22,4,MEDIUM,17.0,False,1,,True,86.174,False,False,,86.605,-0.49766179781767494,True
+VER,Red Bull Racing,23,4,MEDIUM,18.0,False,1,,False,90.993,True,False,in-lap,86.605,,False
+VER,Red Bull Racing,24,5,MEDIUM,19.0,False,1,,False,113.477,False,True,out-lap,86.28,,False
+VER,Red Bull Racing,25,5,MEDIUM,20.0,False,1,,True,86.486,False,False,,86.28,0.238757533611501,True
+VER,Red Bull Racing,26,5,MEDIUM,21.0,False,1,,True,86.074,False,False,,86.28,-0.238757533611501,True
+VER,Red Bull Racing,27,5,MEDIUM,22.0,False,1,,True,85.841,False,False,,86.28,-0.5088085303662577,True
+VER,Red Bull Racing,28,5,MEDIUM,23.0,False,1,,True,134.691,False,False,outside 2% of stint median,86.28,56.10917941585536,False
+VER,Red Bull Racing,29,5,MEDIUM,24.0,False,1,,False,,False,False,no lap time,86.28,,False
+VER,Red Bull Racing,30,5,MEDIUM,25.0,False,1,,False,,True,False,no lap time,86.28,,False
+BOR,Audi,1,1,HARD,1.0,True,1,,False,,False,True,no lap time,84.666,,False
+BOR,Audi,2,1,HARD,2.0,True,1,,True,84.666,False,False,,84.666,0.0,True
+BOR,Audi,3,1,HARD,3.0,True,1,,True,146.147,False,False,outside 2% of stint median,84.666,72.61592610965441,False
+BOR,Audi,4,1,HARD,4.0,True,1,,True,84.586,False,False,,84.666,-0.09448893298372227,True
+BOR,Audi,5,1,HARD,5.0,True,1,,False,139.641,True,False,in-lap,84.666,,False
+BOR,Audi,6,2,HARD,6.0,False,1,,False,140.41,False,True,out-lap,84.111,,False
+BOR,Audi,7,2,HARD,7.0,False,1,,True,84.111,False,False,,84.111,0.0,True
+BOR,Audi,8,2,HARD,8.0,False,1,,False,135.557,True,False,in-lap,84.111,,False
+BOR,Audi,9,3,HARD,9.0,False,1,,False,118.038,False,True,out-lap,83.776,,False
+BOR,Audi,10,3,HARD,10.0,False,1,,True,83.776,False,False,,83.776,0.0,True
+BOR,Audi,11,3,HARD,11.0,False,1,,False,112.509,True,False,in-lap,83.776,,False
+BOR,Audi,12,4,SOFT,1.0,True,1,,False,,False,True,no lap time,101.64,,False
+BOR,Audi,13,4,SOFT,2.0,True,1,,True,119.221,False,False,outside 2% of stint median,101.64,17.29732388823298,False
+BOR,Audi,14,4,SOFT,3.0,True,1,,True,84.059,False,False,outside 2% of stint median,101.64,-17.29732388823298,False
+BOR,Audi,15,4,SOFT,4.0,True,1,,False,144.911,True,False,in-lap,101.64,,False
+BOR,Audi,16,5,SOFT,5.0,False,1,,False,137.151,False,True,out-lap,,,False
+BOR,Audi,17,5,SOFT,6.0,False,1,,False,89.213,True,False,in-lap,,,False
+BOR,Audi,18,6,HARD,12.0,False,1,,False,,False,True,no lap time,87.408,,False
+BOR,Audi,19,6,HARD,13.0,False,1,,True,87.408,False,False,,87.408,0.0,True
+BOR,Audi,20,6,HARD,14.0,False,1,,True,87.073,False,False,,87.408,-0.3832601134907651,True
+BOR,Audi,21,6,HARD,15.0,False,1,,True,88.099,False,False,,87.408,0.790545487827204,True
+BOR,Audi,22,6,HARD,16.0,False,1,,False,106.043,True,False,in-lap,87.408,,False
+GAS,Alpine,1,1,HARD,1.0,True,1,,False,,False,True,no lap time,85.595,,False
+GAS,Alpine,2,1,HARD,2.0,True,1,,True,85.595,False,False,,85.595,0.0,True
+GAS,Alpine,3,1,HARD,3.0,True,1,,True,125.587,False,False,outside 2% of stint median,85.595,46.72235527776156,False
+GAS,Alpine,4,1,HARD,4.0,True,1,,True,84.571,False,False,,85.595,-1.1963315614229815,True
+GAS,Alpine,5,1,HARD,5.0,True,1,,True,123.471,False,False,outside 2% of stint median,85.595,44.25024826216485,False
+GAS,Alpine,6,1,HARD,6.0,True,1,,True,84.312,False,False,,85.595,-1.4989193294000833,True
+GAS,Alpine,7,1,HARD,7.0,True,1,,True,124.941,False,False,outside 2% of stint median,85.595,45.96763829662948,False
+GAS,Alpine,8,1,HARD,8.0,True,1,,True,84.35,False,False,,85.595,-1.4545242128629061,True
+GAS,Alpine,9,1,HARD,9.0,True,1,,False,118.335,True,False,in-lap,85.595,,False
+GAS,Alpine,10,2,SOFT,1.0,True,1,,False,,False,True,no lap time,100.771,,False
+GAS,Alpine,11,2,SOFT,2.0,True,1,,True,83.803,False,False,outside 2% of stint median,100.771,-16.838177650316066,False
+GAS,Alpine,12,2,SOFT,3.0,True,1,,True,135.675,False,False,outside 2% of stint median,100.771,34.63694912226733,False
+GAS,Alpine,13,2,SOFT,4.0,True,1,,True,117.739,False,False,outside 2% of stint median,100.771,16.838177650316066,False
+GAS,Alpine,14,2,SOFT,5.0,True,1,,True,83.773,False,False,outside 2% of stint median,100.771,-16.867948119994843,False
+GAS,Alpine,15,2,SOFT,6.0,True,1,,False,112.702,True,False,in-lap,100.771,,False
+GAS,Alpine,16,3,HARD,10.0,False,1,,False,,False,True,no lap time,87.22749999999999,,False
+GAS,Alpine,17,3,HARD,11.0,False,1,,True,87.339,False,False,,87.22749999999999,0.12782666017025204,True
+GAS,Alpine,18,3,HARD,12.0,False,1,,True,87.027,False,False,,87.22749999999999,-0.22985870281733517,True
+GAS,Alpine,19,3,HARD,13.0,False,1,,True,87.636,False,False,,87.22749999999999,0.46831561147574297,True
+GAS,Alpine,20,3,HARD,14.0,False,1,,True,87.619,False,False,,87.22749999999999,0.4488263449027059,True
+GAS,Alpine,21,3,HARD,15.0,False,1,,True,86.755,False,False,,87.22749999999999,-0.5416869679860097,True
+GAS,Alpine,22,3,HARD,16.0,False,1,,True,86.804,False,False,,87.22749999999999,-0.485512023157823,True
+GAS,Alpine,23,3,HARD,17.0,False,1,,True,87.116,False,False,,87.22749999999999,-0.12782666017023575,True
+GAS,Alpine,24,3,HARD,18.0,False,1,,True,86.662,False,False,,87.22749999999999,-0.6483047204149907,True
+GAS,Alpine,25,3,HARD,19.0,False,1,,True,113.252,False,False,outside 2% of stint median,87.22749999999999,29.835201054713256,False
+GAS,Alpine,26,3,HARD,20.0,False,1,,True,143.779,False,False,outside 2% of stint median,87.22749999999999,64.83219168266889,False
+GAS,Alpine,27,3,HARD,21.0,False,1,,False,132.849,True,False,in-lap,87.22749999999999,,False
+PER,Cadillac,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,87.436,,False
+PER,Cadillac,2,1,MEDIUM,2.0,True,1,,True,87.436,False,False,,87.436,0.0,True
+PER,Cadillac,3,1,MEDIUM,3.0,True,1,,True,132.054,False,False,outside 2% of stint median,87.436,51.029324305777926,False
+PER,Cadillac,4,1,MEDIUM,4.0,True,1,,True,86.414,False,False,,87.436,-1.168854933894512,True
+PER,Cadillac,5,1,MEDIUM,5.0,True,1,,True,120.059,False,False,outside 2% of stint median,87.436,37.31071869710416,False
+PER,Cadillac,6,1,MEDIUM,6.0,True,1,,True,85.951,False,False,,87.436,-1.6983851045336171,True
+PER,Cadillac,7,1,MEDIUM,7.0,True,1,,True,111.44,False,False,outside 2% of stint median,87.436,27.453222928770746,False
+PER,Cadillac,8,1,MEDIUM,8.0,True,1,,True,85.483,False,False,outside 2% of stint median,87.436,-2.233633743538134,False
+PER,Cadillac,9,1,MEDIUM,9.0,True,1,,False,115.194,True,False,in-lap,87.436,,False
+PER,Cadillac,10,2,SOFT,1.0,True,1,,False,,False,True,no lap time,101.2855,,False
+PER,Cadillac,11,2,SOFT,2.0,True,1,,True,85.198,False,False,outside 2% of stint median,101.2855,-15.883319922397584,False
+PER,Cadillac,12,2,SOFT,3.0,True,1,,True,130.008,False,False,outside 2% of stint median,101.2855,28.35795844419982,False
+PER,Cadillac,13,2,SOFT,4.0,True,1,,True,117.373,False,False,outside 2% of stint median,101.2855,15.883319922397584,False
+PER,Cadillac,14,2,SOFT,5.0,True,1,,True,85.082,False,False,outside 2% of stint median,101.2855,-15.997847668224974,False
+PER,Cadillac,15,2,SOFT,6.0,True,1,,False,117.279,True,False,in-lap,101.2855,,False
+PER,Cadillac,16,3,SOFT,7.0,False,1,,False,,False,True,no lap time,88.819,,False
+PER,Cadillac,17,3,SOFT,8.0,False,1,,True,88.961,False,False,,88.819,0.1598757022709059,True
+PER,Cadillac,18,3,SOFT,9.0,False,1,,True,88.97,False,False,,88.819,0.17000866931624567,True
+PER,Cadillac,19,3,SOFT,10.0,False,1,,True,88.357,False,False,,88.819,-0.5201589749940928,True
+PER,Cadillac,20,3,SOFT,11.0,False,1,,True,88.293,False,False,,88.819,-0.5922156295387205,True
+PER,Cadillac,21,3,SOFT,12.0,False,1,,True,88.677,False,False,,88.819,-0.1598757022709059,True
+PER,Cadillac,22,3,SOFT,13.0,False,1,,True,87.892,False,False,,88.819,-1.0436956056699656,True
+PER,Cadillac,23,3,SOFT,14.0,False,1,,True,88.211,False,False,,88.819,-0.6845382181740439,True
+PER,Cadillac,24,3,SOFT,15.0,False,1,,True,90.946,False,False,outside 2% of stint median,88.819,2.3947578783818724,False
+PER,Cadillac,25,3,SOFT,16.0,False,1,,True,90.253,False,False,,88.819,1.6145194158907412,True
+PER,Cadillac,26,3,SOFT,17.0,False,1,,True,126.848,False,False,outside 2% of stint median,88.819,42.81628930746799,False
+PER,Cadillac,27,3,SOFT,18.0,False,1,,False,,False,False,no lap time,88.819,,False
+PER,Cadillac,28,3,SOFT,19.0,False,12,,False,,True,False,no lap time,88.819,,False
+ANT,Mercedes,1,1,HARD,1.0,True,1,,False,,False,True,no lap time,108.768,,False
+ANT,Mercedes,2,1,HARD,2.0,True,1,,True,83.417,False,False,outside 2% of stint median,108.768,-23.307406590173578,False
+ANT,Mercedes,3,1,HARD,3.0,True,1,,True,134.119,False,False,outside 2% of stint median,108.768,23.307406590173578,False
+ANT,Mercedes,4,1,HARD,4.0,True,1,,False,96.838,True,False,in-lap,108.768,,False
+ANT,Mercedes,5,2,SOFT,1.0,True,1,,False,,False,True,no lap time,,,False
+ANT,Mercedes,6,2,SOFT,2.0,True,1,,False,91.894,True,False,in-lap,,,False
+ANT,Mercedes,7,3,SOFT,3.0,False,1,,False,,False,True,no lap time,82.7,,False
+ANT,Mercedes,8,3,SOFT,4.0,False,1,,True,82.7,False,False,,82.7,0.0,True
+ANT,Mercedes,9,3,SOFT,5.0,False,1,,False,97.305,True,False,in-lap,82.7,,False
+ANT,Mercedes,10,4,HARD,5.0,False,1,,False,,False,True,no lap time,86.018,,False
+ANT,Mercedes,11,4,HARD,6.0,False,1,,True,86.42,False,False,,86.018,0.4673440442698052,True
+ANT,Mercedes,12,4,HARD,7.0,False,1,,True,86.405,False,False,,86.018,0.4499058336627223,True
+ANT,Mercedes,13,4,HARD,8.0,False,1,,True,86.291,False,False,,86.018,0.31737543304889226,True
+ANT,Mercedes,14,4,HARD,9.0,False,1,,True,85.875,False,False,,86.018,-0.1662442744541848,True
+ANT,Mercedes,15,4,HARD,10.0,False,1,,True,85.968,False,False,,86.018,-0.058127368690270825,True
+ANT,Mercedes,16,4,HARD,11.0,False,1,,True,85.702,False,False,,86.018,-0.3673649701225354,True
+ANT,Mercedes,17,4,HARD,12.0,False,1,,True,85.946,False,False,,86.018,-0.08370341091399791,True
+ANT,Mercedes,18,4,HARD,13.0,False,1,,True,85.813,False,False,,86.018,-0.23832221163012193,True
+ANT,Mercedes,19,4,HARD,14.0,False,1,,True,85.739,False,False,,86.018,-0.32435071729172543,True
+ANT,Mercedes,20,4,HARD,15.0,False,1,,True,85.815,False,False,,86.018,-0.2359971168825164,True
+ANT,Mercedes,21,4,HARD,16.0,False,1,,True,86.018,False,False,,86.018,0.0,True
+ANT,Mercedes,22,4,HARD,17.0,False,1,,True,85.773,False,False,,86.018,-0.2848241065823485,True
+ANT,Mercedes,23,4,HARD,18.0,False,1,,True,87.637,False,False,,86.018,1.882164198191076,True
+ANT,Mercedes,24,4,HARD,19.0,False,1,,True,86.332,False,False,,86.018,0.36503987537491334,True
+ANT,Mercedes,25,4,HARD,20.0,False,1,,True,86.463,False,False,,86.018,0.5173335813434318,True
+ANT,Mercedes,26,4,HARD,21.0,False,1,,True,86.376,False,False,,86.018,0.4161919598223675,True
+ANT,Mercedes,27,4,HARD,22.0,False,1,,True,86.076,False,False,,86.018,0.06742774768070953,True
+ANT,Mercedes,28,4,HARD,23.0,False,1,,False,90.482,True,False,in-lap,86.018,,False
+ANT,Mercedes,29,5,SOFT,6.0,False,1,,False,127.754,False,True,out-lap,130.172,,False
+ANT,Mercedes,30,5,SOFT,7.0,False,1,,True,130.172,False,False,,130.172,0.0,True
+ANT,Mercedes,31,5,SOFT,8.0,False,1,,False,,False,False,no lap time,130.172,,False
+ANT,Mercedes,32,5,SOFT,9.0,False,1,,False,145.389,True,False,in-lap,130.172,,False
+ALO,Aston Martin,1,1,SOFT,1.0,True,1,,False,,False,True,no lap time,86.319,,False
+ALO,Aston Martin,2,1,SOFT,2.0,True,1,,True,86.319,False,False,,86.319,0.0,True
+ALO,Aston Martin,3,1,SOFT,3.0,True,1,,True,120.032,False,False,outside 2% of stint median,86.319,39.05629119892491,False
+ALO,Aston Martin,4,1,SOFT,4.0,True,1,,True,86.155,False,False,,86.319,-0.18999293318968186,True
+ALO,Aston Martin,5,1,SOFT,5.0,True,1,,True,121.683,False,False,outside 2% of stint median,86.319,40.96896395926738,False
+ALO,Aston Martin,6,1,SOFT,6.0,True,1,,True,85.791,False,False,,86.319,-0.611684565391172,True
+ALO,Aston Martin,7,1,SOFT,7.0,True,1,,False,105.062,True,False,in-lap,86.319,,False
+ALO,Aston Martin,8,2,SOFT,1.0,True,1,,False,,False,True,no lap time,102.1135,,False
+ALO,Aston Martin,9,2,SOFT,2.0,True,1,,True,85.06,False,False,outside 2% of stint median,102.1135,-16.700534209482583,False
+ALO,Aston Martin,10,2,SOFT,3.0,True,1,,True,119.167,False,False,outside 2% of stint median,102.1135,16.700534209482583,False
+ALO,Aston Martin,11,2,SOFT,4.0,True,1,,True,126.921,False,False,outside 2% of stint median,102.1135,24.294045351496134,False
+ALO,Aston Martin,12,2,SOFT,5.0,True,1,,True,85.027,False,False,outside 2% of stint median,102.1135,-16.732851190097293,False
+ALO,Aston Martin,13,2,SOFT,6.0,True,1,,False,118.044,True,False,in-lap,102.1135,,False
+ALO,Aston Martin,14,3,SOFT,7.0,False,1,,False,,False,True,no lap time,108.541,,False
+ALO,Aston Martin,15,3,SOFT,8.0,False,1,,True,108.541,False,False,,108.541,0.0,True
+ALO,Aston Martin,16,3,SOFT,9.0,False,1,,True,86.796,False,False,outside 2% of stint median,108.541,-20.033904238951173,False
+ALO,Aston Martin,17,3,SOFT,10.0,False,1,,True,125.16,False,False,outside 2% of stint median,108.541,15.3112648676537,False
+ALO,Aston Martin,18,3,SOFT,11.0,False,1,,False,98.636,True,False,in-lap,108.541,,False
+LEC,Ferrari,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,83.472,,False
+LEC,Ferrari,2,1,MEDIUM,2.0,True,1,,True,83.472,False,False,,83.472,0.0,True
+LEC,Ferrari,3,1,MEDIUM,3.0,True,1,,False,144.255,True,False,in-lap,83.472,,False
+LEC,Ferrari,4,2,MEDIUM,4.0,False,1,,False,,False,True,no lap time,98.19550000000001,,False
+LEC,Ferrari,5,2,MEDIUM,5.0,False,1,,True,112.593,False,False,outside 2% of stint median,98.19550000000001,14.66207718276295,False
+LEC,Ferrari,6,2,MEDIUM,6.0,False,1,,True,83.798,False,False,outside 2% of stint median,98.19550000000001,-14.662077182762966,False
+LEC,Ferrari,7,2,MEDIUM,7.0,False,1,,False,114.799,True,False,in-lap,98.19550000000001,,False
+LEC,Ferrari,8,3,MEDIUM,8.0,False,1,,False,,False,True,no lap time,83.83,,False
+LEC,Ferrari,9,3,MEDIUM,9.0,False,1,,True,83.83,False,False,,83.83,0.0,True
+LEC,Ferrari,10,3,MEDIUM,10.0,False,1,,False,102.174,True,False,in-lap,83.83,,False
+LEC,Ferrari,11,4,SOFT,1.0,True,1,,False,,False,True,no lap time,82.679,,False
+LEC,Ferrari,12,4,SOFT,2.0,True,1,,True,82.679,False,False,,82.679,0.0,True
+LEC,Ferrari,13,4,SOFT,3.0,True,1,,False,125.304,True,False,in-lap,82.679,,False
+LEC,Ferrari,14,5,SOFT,4.0,False,1,,False,,False,True,no lap time,,,False
+LEC,Ferrari,15,5,SOFT,5.0,False,1,,False,89.821,True,False,in-lap,,,False
+LEC,Ferrari,16,6,SOFT,6.0,False,1,,False,,False,True,no lap time,86.232,,False
+LEC,Ferrari,17,6,SOFT,7.0,False,1,,True,87.087,False,False,,86.232,0.9915112719176222,True
+LEC,Ferrari,18,6,SOFT,8.0,False,1,,True,86.232,False,False,,86.232,0.0,True
+LEC,Ferrari,19,6,SOFT,9.0,False,1,,True,86.168,False,False,,86.232,-0.0742183876055211,True
+LEC,Ferrari,20,6,SOFT,10.0,False,1,,True,97.38,False,False,outside 2% of stint median,86.232,12.927915391038127,False
+LEC,Ferrari,21,6,SOFT,11.0,False,1,,True,88.185,False,False,outside 2% of stint median,86.232,2.2648204842749826,False
+LEC,Ferrari,22,6,SOFT,12.0,False,1,,True,86.024,False,False,,86.232,-0.2412097597179683,True
+LEC,Ferrari,23,6,SOFT,13.0,False,1,,True,86.042,False,False,,86.232,-0.2203358382039124,True
+LEC,Ferrari,24,6,SOFT,14.0,False,1,,True,86.323,False,False,,86.232,0.10552926987660495,True
+LEC,Ferrari,25,6,SOFT,15.0,False,1,,True,86.137,False,False,,86.232,-0.1101679191019562,True
+LEC,Ferrari,26,6,SOFT,16.0,False,1,,True,85.708,False,False,,86.232,-0.607663048520272,True
+LEC,Ferrari,27,6,SOFT,17.0,False,1,,True,105.0,False,False,outside 2% of stint median,86.232,21.764542165321462,False
+LEC,Ferrari,28,6,SOFT,18.0,False,1,,False,,False,False,no lap time,86.232,,False
+LEC,Ferrari,29,6,SOFT,19.0,False,1,,False,130.406,True,False,in-lap,86.232,,False
+STR,Aston Martin,1,1,SOFT,1.0,True,1,,False,,False,True,no lap time,113.1825,,False
+STR,Aston Martin,2,1,SOFT,2.0,True,1,,True,86.045,False,False,outside 2% of stint median,113.1825,-23.97676319218961,False
+STR,Aston Martin,3,1,SOFT,3.0,True,1,,True,136.712,False,False,outside 2% of stint median,113.1825,20.788991230976507,False
+STR,Aston Martin,4,1,SOFT,4.0,True,1,,True,120.39,False,False,outside 2% of stint median,113.1825,6.368033927506456,False
+STR,Aston Martin,5,1,SOFT,5.0,True,1,,True,94.664,False,False,outside 2% of stint median,113.1825,-16.36162834360436,False
+STR,Aston Martin,6,1,SOFT,6.0,True,1,,True,140.95,False,False,outside 2% of stint median,113.1825,24.533386345062162,False
+STR,Aston Martin,7,1,SOFT,7.0,True,1,,True,126.261,False,False,outside 2% of stint median,113.1825,11.555231594990381,False
+STR,Aston Martin,8,1,SOFT,8.0,True,1,,True,105.975,False,False,outside 2% of stint median,113.1825,-6.3680339275064695,False
+STR,Aston Martin,9,1,SOFT,9.0,True,1,,True,86.263,False,False,outside 2% of stint median,113.1825,-23.78415391071941,False
+STR,Aston Martin,10,1,SOFT,10.0,True,1,,False,104.411,True,False,in-lap,113.1825,,False
+STR,Aston Martin,11,2,SOFT,1.0,True,1,,False,,False,True,no lap time,85.253,,False
+STR,Aston Martin,12,2,SOFT,2.0,True,1,,True,85.253,False,False,,85.253,0.0,True
+STR,Aston Martin,13,2,SOFT,3.0,True,1,,False,138.347,True,False,in-lap,85.253,,False
+STR,Aston Martin,14,3,SOFT,4.0,False,1,,False,,False,True,no lap time,112.192,,False
+STR,Aston Martin,15,3,SOFT,5.0,False,1,,True,112.192,False,False,,112.192,0.0,True
+STR,Aston Martin,16,3,SOFT,6.0,False,1,,False,123.384,True,False,in-lap,112.192,,False
+STR,Aston Martin,17,4,SOFT,7.0,False,1,,False,,False,True,no lap time,90.352,,False
+STR,Aston Martin,18,4,SOFT,8.0,False,1,,True,93.762,False,False,outside 2% of stint median,90.352,3.7741278554984907,False
+STR,Aston Martin,19,4,SOFT,9.0,False,1,,True,90.352,False,False,,90.352,0.0,True
+STR,Aston Martin,20,4,SOFT,10.0,False,1,,True,90.211,False,False,,90.352,-0.15605631308660056,True
+STR,Aston Martin,21,4,SOFT,11.0,False,1,,True,89.504,False,False,,90.352,-0.9385514432441993,True
+STR,Aston Martin,22,4,SOFT,12.0,False,1,,True,89.624,False,False,,90.352,-0.805737559766257,True
+STR,Aston Martin,23,4,SOFT,13.0,False,1,,True,90.514,False,False,,90.352,0.17929874269522747,True
+STR,Aston Martin,24,4,SOFT,14.0,False,1,,True,89.726,False,False,,90.352,-0.6928457588099929,True
+STR,Aston Martin,25,4,SOFT,15.0,False,1,,True,91.318,False,False,,90.352,1.0691517619975142,True
+STR,Aston Martin,26,4,SOFT,16.0,False,1,,True,130.499,False,False,outside 2% of stint median,90.352,44.43399149991144,False
+STR,Aston Martin,27,4,SOFT,17.0,False,1,,False,,True,False,no lap time,90.352,,False
+TSU,Racing Bulls,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,119.51,,False
+TSU,Racing Bulls,2,1,MEDIUM,2.0,True,1,,True,84.916,False,False,outside 2% of stint median,119.51,-28.94653167098988,False
+TSU,Racing Bulls,3,1,MEDIUM,3.0,True,1,,True,148.11,False,False,outside 2% of stint median,119.51,23.931051794828893,False
+TSU,Racing Bulls,4,1,MEDIUM,4.0,True,1,,True,121.94,False,False,outside 2% of stint median,119.51,2.0333026524976927,False
+TSU,Racing Bulls,5,1,MEDIUM,5.0,True,1,,True,84.488,False,False,outside 2% of stint median,119.51,-29.304660697849556,False
+TSU,Racing Bulls,6,1,MEDIUM,6.0,True,1,,True,146.899,False,False,outside 2% of stint median,119.51,22.917747468831056,False
+TSU,Racing Bulls,7,1,MEDIUM,7.0,True,1,,True,119.51,False,False,,119.51,0.0,True
+TSU,Racing Bulls,8,1,MEDIUM,8.0,True,1,,True,84.325,False,False,outside 2% of stint median,119.51,-29.441050958078822,False
+TSU,Racing Bulls,9,1,MEDIUM,9.0,True,1,,False,129.134,True,False,in-lap,119.51,,False
+TSU,Racing Bulls,10,2,SOFT,1.0,True,1,,False,,False,True,no lap time,104.606,,False
+TSU,Racing Bulls,11,2,SOFT,2.0,True,1,,True,83.455,False,False,outside 2% of stint median,104.606,-20.21968147142611,False
+TSU,Racing Bulls,12,2,SOFT,3.0,True,1,,True,142.788,False,False,outside 2% of stint median,104.606,36.50077433416823,False
+TSU,Racing Bulls,13,2,SOFT,4.0,True,1,,True,125.292,False,False,outside 2% of stint median,104.606,19.775156300785813,False
+TSU,Racing Bulls,14,2,SOFT,5.0,True,1,,True,83.92,False,False,outside 2% of stint median,104.606,-19.775156300785802,False
+TSU,Racing Bulls,15,2,SOFT,6.0,True,1,,False,133.686,True,False,in-lap,104.606,,False
+TSU,Racing Bulls,16,3,MEDIUM,10.0,False,1,,False,,False,True,no lap time,87.443,,False
+TSU,Racing Bulls,17,3,MEDIUM,11.0,False,1,,True,88.732,False,False,,87.443,1.4741031300389986,True
+TSU,Racing Bulls,18,3,MEDIUM,12.0,False,1,,True,87.227,False,False,,87.443,-0.24701805747743558,True
+TSU,Racing Bulls,19,3,MEDIUM,13.0,False,1,,True,87.616,False,False,,87.443,0.19784316640554628,True
+TSU,Racing Bulls,20,3,MEDIUM,14.0,False,1,,True,88.021,False,False,,87.443,0.6610020241757522,True
+TSU,Racing Bulls,21,3,MEDIUM,15.0,False,1,,True,86.519,False,False,,87.443,-1.0566883569868284,True
+TSU,Racing Bulls,22,3,MEDIUM,16.0,False,1,,True,86.891,False,False,,87.443,-0.6312683691090111,True
+TSU,Racing Bulls,23,3,MEDIUM,17.0,False,1,,True,86.876,False,False,,87.443,-0.6484224008782785,True
+TSU,Racing Bulls,24,3,MEDIUM,18.0,False,1,,True,87.545,False,False,,87.443,0.11664741603101891,True
+TSU,Racing Bulls,25,3,MEDIUM,19.0,False,1,,True,87.362,False,False,,87.443,-0.09263177155404444,True
+TSU,Racing Bulls,26,3,MEDIUM,20.0,False,1,,True,87.443,False,False,,87.443,0.0,True
+TSU,Racing Bulls,27,3,MEDIUM,21.0,False,1,,True,148.056,False,False,outside 2% of stint median,87.443,69.3171551753714,False
+TSU,Racing Bulls,28,3,MEDIUM,22.0,False,1,,False,,False,False,no lap time,87.443,,False
+TSU,Racing Bulls,29,3,MEDIUM,23.0,False,12,,False,128.239,True,False,in-lap,87.443,,False
+ALB,Williams,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,103.728,,False
+ALB,Williams,2,1,MEDIUM,2.0,True,1,,True,85.774,False,False,outside 2% of stint median,103.728,-17.30873052599105,False
+ALB,Williams,3,1,MEDIUM,3.0,True,1,,True,136.765,False,False,outside 2% of stint median,103.728,31.849645225975625,False
+ALB,Williams,4,1,MEDIUM,4.0,True,1,,True,105.889,False,False,outside 2% of stint median,103.728,2.083333333333335,False
+ALB,Williams,5,1,MEDIUM,5.0,True,1,,True,85.207,False,False,outside 2% of stint median,103.728,-17.855352460280738,False
+ALB,Williams,6,1,MEDIUM,6.0,True,1,,True,128.644,False,False,outside 2% of stint median,103.728,24.020515193583233,False
+ALB,Williams,7,1,MEDIUM,7.0,True,1,,True,103.728,False,False,,103.728,0.0,True
+ALB,Williams,8,1,MEDIUM,8.0,True,1,,True,84.929,False,False,outside 2% of stint median,103.728,-18.12336109825697,False
+ALB,Williams,9,1,MEDIUM,9.0,True,1,,True,140.53,False,False,outside 2% of stint median,103.728,35.47933055684098,False
+ALB,Williams,10,1,MEDIUM,10.0,True,1,,True,85.374,False,False,outside 2% of stint median,103.728,-17.69435446552522,False
+ALB,Williams,11,1,MEDIUM,11.0,True,1,,False,108.579,True,False,in-lap,103.728,,False
+ALB,Williams,12,2,SOFT,1.0,True,1,,False,,False,True,no lap time,83.853,,False
+ALB,Williams,13,2,SOFT,2.0,True,1,,True,83.853,False,False,,83.853,0.0,True
+ALB,Williams,14,2,SOFT,3.0,True,1,,False,117.166,True,False,in-lap,83.853,,False
+ALB,Williams,15,3,MEDIUM,12.0,False,1,,False,,False,True,no lap time,87.70349999999999,,False
+ALB,Williams,16,3,MEDIUM,13.0,False,1,,True,87.984,False,False,,87.70349999999999,0.3198276009509353,True
+ALB,Williams,17,3,MEDIUM,14.0,False,1,,True,87.827,False,False,,87.70349999999999,0.1408153608464965,True
+ALB,Williams,18,3,MEDIUM,15.0,False,1,,True,87.802,False,False,,87.70349999999999,0.11231022707191342,True
+ALB,Williams,19,3,MEDIUM,16.0,False,1,,True,87.616,False,False,,87.70349999999999,-0.09976796821106511,True
+ALB,Williams,20,3,MEDIUM,17.0,False,1,,True,87.584,False,False,,87.70349999999999,-0.13625453944253987,True
+ALB,Williams,21,3,MEDIUM,18.0,False,1,,True,87.917,False,False,,87.70349999999999,0.2434338424350345,True
+ALB,Williams,22,3,MEDIUM,19.0,False,1,,True,87.618,False,False,,87.70349999999999,-0.097487557509103,True
+ALB,Williams,23,3,MEDIUM,20.0,False,1,,True,87.654,False,False,,87.70349999999999,-0.0564401648736878,True
+ALB,Williams,24,3,MEDIUM,21.0,False,1,,True,87.753,False,False,,87.70349999999999,0.056440164873704,True
+ALB,Williams,25,3,MEDIUM,22.0,False,1,,True,87.58,False,False,,87.70349999999999,-0.1408153608464803,True
+ALB,Williams,26,3,MEDIUM,23.0,False,1,,False,92.228,True,False,in-lap,87.70349999999999,,False
+ALB,Williams,27,4,SOFT,4.0,False,1,,False,108.793,False,True,out-lap,106.682,,False
+ALB,Williams,28,4,SOFT,5.0,False,1,,True,87.622,False,False,outside 2% of stint median,106.682,-17.8661817363754,False
+ALB,Williams,29,4,SOFT,6.0,False,1,,True,125.742,False,False,outside 2% of stint median,106.682,17.8661817363754,False
+ALB,Williams,30,4,SOFT,7.0,False,1,,False,,False,False,no lap time,106.682,,False
+ALB,Williams,31,4,SOFT,8.0,False,12,,False,127.06,True,False,in-lap,106.682,,False
+HUL,Audi,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,118.063,,False
+HUL,Audi,2,1,MEDIUM,2.0,True,1,,True,85.294,False,False,outside 2% of stint median,118.063,-27.75552035777509,False
+HUL,Audi,3,1,MEDIUM,3.0,True,1,,True,131.377,False,False,outside 2% of stint median,118.063,11.27703006022209,False
+HUL,Audi,4,1,MEDIUM,4.0,True,1,,True,85.016,False,False,outside 2% of stint median,118.063,-27.99098786241244,False
+HUL,Audi,5,1,MEDIUM,5.0,True,1,,True,129.452,False,False,outside 2% of stint median,118.063,9.646544641420256,False
+HUL,Audi,6,1,MEDIUM,6.0,True,1,,True,118.063,False,False,,118.063,0.0,True
+HUL,Audi,7,1,MEDIUM,7.0,True,1,,True,85.019,False,False,outside 2% of stint median,118.063,-27.988446846175343,False
+HUL,Audi,8,1,MEDIUM,8.0,True,1,,True,124.179,False,False,outside 2% of stint median,118.063,5.180285102021801,False
+HUL,Audi,9,1,MEDIUM,9.0,True,1,,True,122.374,False,False,outside 2% of stint median,118.063,3.6514403327037197,False
+HUL,Audi,10,1,MEDIUM,10.0,True,1,,True,94.427,False,False,outside 2% of stint median,118.063,-20.019819926649326,False
+HUL,Audi,11,1,MEDIUM,11.0,True,1,,False,103.481,True,False,in-lap,118.063,,False
+HUL,Audi,12,2,SOFT,1.0,True,1,,False,,False,True,no lap time,83.732,,False
+HUL,Audi,13,2,SOFT,2.0,True,1,,True,83.732,False,False,,83.732,0.0,True
+HUL,Audi,14,2,SOFT,3.0,True,1,,False,123.563,True,False,in-lap,83.732,,False
+HUL,Audi,15,3,SOFT,4.0,False,1,,False,148.929,False,True,out-lap,84.043,,False
+HUL,Audi,16,3,SOFT,5.0,False,1,,True,84.043,False,False,,84.043,0.0,True
+HUL,Audi,17,3,SOFT,6.0,False,1,,False,98.246,True,False,in-lap,84.043,,False
+HUL,Audi,18,4,SOFT,7.0,False,1,,False,,False,True,no lap time,87.7655,,False
+HUL,Audi,19,4,SOFT,8.0,False,1,,True,88.024,False,False,,87.7655,0.29453486848476673,True
+HUL,Audi,20,4,SOFT,9.0,False,1,,True,87.66,False,False,,87.7655,-0.12020668713789173,True
+HUL,Audi,21,4,SOFT,10.0,False,1,,True,87.339,False,False,,87.7655,-0.48595404800292175,True
+HUL,Audi,22,4,SOFT,11.0,False,1,,True,87.871,False,False,,87.7655,0.12020668713787554,True
+HUL,Audi,23,4,SOFT,12.0,False,1,,True,87.517,False,False,,87.7655,-0.283140869703935,True
+HUL,Audi,24,4,SOFT,13.0,False,1,,True,87.947,False,False,,87.7655,0.2068010778722844,True
+HUL,Audi,25,4,SOFT,14.0,False,1,,True,87.871,False,False,,87.7655,0.12020668713787554,True
+HUL,Audi,26,4,SOFT,15.0,False,1,,True,87.129,False,False,,87.7655,-0.7252280224005994,True
+HUL,Audi,27,4,SOFT,16.0,False,1,,False,91.65,True,False,in-lap,87.7655,,False
+HUL,Audi,28,5,MEDIUM,12.0,False,1,,False,139.467,True,True,out-lap,,,False
+LAW,Red Bull Racing,1,1,SOFT,1.0,True,1,,False,,False,True,no lap time,110.018,,False
+LAW,Red Bull Racing,2,1,SOFT,2.0,True,1,,True,84.473,False,False,outside 2% of stint median,110.018,-23.218927811812613,False
+LAW,Red Bull Racing,3,1,SOFT,3.0,True,1,,True,143.945,False,False,outside 2% of stint median,110.018,30.837681106727985,False
+LAW,Red Bull Racing,4,1,SOFT,4.0,True,1,,True,110.018,False,False,,110.018,0.0,True
+LAW,Red Bull Racing,5,1,SOFT,5.0,True,1,,True,84.135,False,False,outside 2% of stint median,110.018,-23.526150266320055,False
+LAW,Red Bull Racing,6,1,SOFT,6.0,True,1,,True,140.29,False,False,outside 2% of stint median,110.018,27.515497464051325,False
+LAW,Red Bull Racing,7,1,SOFT,7.0,True,1,,True,111.075,False,False,,110.018,0.9607518769655894,True
+LAW,Red Bull Racing,8,1,SOFT,8.0,True,1,,True,83.66,False,False,outside 2% of stint median,110.018,-23.95789779854206,False
+LAW,Red Bull Racing,9,1,SOFT,9.0,True,1,,False,103.255,True,False,in-lap,110.018,,False
+LAW,Red Bull Racing,10,2,SOFT,10.0,False,1,,False,,False,True,no lap time,86.72999999999999,,False
+LAW,Red Bull Racing,11,2,SOFT,11.0,False,1,,True,87.735,False,False,,86.72999999999999,1.158768592182647,True
+LAW,Red Bull Racing,12,2,SOFT,12.0,False,1,,True,87.167,False,False,,86.72999999999999,0.5038625619739558,True
+LAW,Red Bull Racing,13,2,SOFT,13.0,False,1,,True,87.265,False,False,,86.72999999999999,0.6168569122564406,True
+LAW,Red Bull Racing,14,2,SOFT,14.0,False,1,,True,86.69,False,False,,86.72999999999999,-0.046120142972434046,True
+LAW,Red Bull Racing,15,2,SOFT,15.0,False,1,,True,86.658,False,False,,86.72999999999999,-0.08301625735038455,True
+LAW,Red Bull Racing,16,2,SOFT,16.0,False,1,,True,86.77,False,False,,86.72999999999999,0.04612014297245043,True
+LAW,Red Bull Racing,17,2,SOFT,17.0,False,1,,True,87.398,False,False,,86.72999999999999,0.7702063876398091,True
+LAW,Red Bull Racing,18,2,SOFT,18.0,False,1,,True,86.632,False,False,,86.72999999999999,-0.11299435028246832,True
+LAW,Red Bull Racing,19,2,SOFT,19.0,False,1,,True,86.617,False,False,,86.72999999999999,-0.1302894038971352,True
+LAW,Red Bull Racing,20,2,SOFT,20.0,False,1,,True,86.361,False,False,,86.72999999999999,-0.42545831892077207,True
+LAW,Red Bull Racing,21,2,SOFT,21.0,False,1,,False,90.585,True,False,in-lap,86.72999999999999,,False
+LAW,Red Bull Racing,22,3,HARD,1.0,True,1,,False,113.267,False,True,out-lap,86.128,,False
+LAW,Red Bull Racing,23,3,HARD,2.0,True,1,,True,86.252,False,False,,86.128,0.14397176295745312,True
+LAW,Red Bull Racing,24,3,HARD,3.0,True,1,,True,85.964,False,False,,86.128,-0.19041426713728576,True
+LAW,Red Bull Racing,25,3,HARD,4.0,True,1,,True,85.754,False,False,,86.128,-0.43423741408136174,True
+LAW,Red Bull Racing,26,3,HARD,5.0,True,1,,True,85.868,False,False,,86.128,-0.3018762771688709,True
+LAW,Red Bull Racing,27,3,HARD,6.0,True,1,,True,85.883,False,False,,86.128,-0.28446033810143573,True
+LAW,Red Bull Racing,28,3,HARD,7.0,True,1,,True,85.582,False,False,,86.128,-0.6339401820546239,True
+LAW,Red Bull Racing,29,3,HARD,8.0,True,1,,True,86.267,False,False,,86.128,0.1613877020248883,True
+LAW,Red Bull Racing,30,3,HARD,9.0,True,1,,True,86.571,False,False,,86.128,0.5143507337915635,True
+LAW,Red Bull Racing,31,3,HARD,10.0,True,1,,True,86.154,False,False,,86.128,0.03018762771688214,True
+LAW,Red Bull Racing,32,3,HARD,11.0,True,1,,True,86.128,False,False,,86.128,0.0,True
+LAW,Red Bull Racing,33,3,HARD,12.0,True,1,,True,85.88,False,False,,86.128,-0.2879435259149227,True
+LAW,Red Bull Racing,34,3,HARD,13.0,True,1,,True,86.459,False,False,,86.128,0.3843117220880585,True
+LAW,Red Bull Racing,35,3,HARD,14.0,True,1,,True,141.366,False,False,outside 2% of stint median,86.128,64.13477614712987,False
+LAW,Red Bull Racing,36,3,HARD,15.0,True,1,,False,,False,False,no lap time,86.128,,False
+LAW,Red Bull Racing,37,3,HARD,16.0,True,12,,False,,True,False,no lap time,86.128,,False
+OCO,Haas F1 Team,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,87.373,,False
+OCO,Haas F1 Team,2,1,MEDIUM,2.0,True,1,,True,87.373,False,False,,87.373,0.0,True
+OCO,Haas F1 Team,3,1,MEDIUM,3.0,True,1,,False,149.182,True,False,in-lap,87.373,,False
+OCO,Haas F1 Team,4,2,MEDIUM,4.0,False,1,,False,,False,True,no lap time,103.19,,False
+OCO,Haas F1 Team,5,2,MEDIUM,5.0,False,1,,True,85.645,False,False,outside 2% of stint median,103.19,-17.00261653260975,False
+OCO,Haas F1 Team,6,2,MEDIUM,6.0,False,1,,True,148.202,False,False,outside 2% of stint median,103.19,43.620505862971214,False
+OCO,Haas F1 Team,7,2,MEDIUM,7.0,False,1,,True,120.223,False,False,outside 2% of stint median,103.19,16.506444422909198,False
+OCO,Haas F1 Team,8,2,MEDIUM,8.0,False,1,,True,86.157,False,False,outside 2% of stint median,103.19,-16.506444422909198,False
+OCO,Haas F1 Team,9,2,MEDIUM,9.0,False,1,,False,116.742,True,False,in-lap,103.19,,False
+OCO,Haas F1 Team,10,3,MEDIUM,10.0,False,1,,False,,False,True,no lap time,85.764,,False
+OCO,Haas F1 Team,11,3,MEDIUM,11.0,False,1,,True,85.764,False,False,,85.764,0.0,True
+OCO,Haas F1 Team,12,3,MEDIUM,12.0,False,1,,False,103.393,True,False,in-lap,85.764,,False
+OCO,Haas F1 Team,13,4,SOFT,1.0,True,1,,False,,False,True,no lap time,84.637,,False
+OCO,Haas F1 Team,14,4,SOFT,2.0,True,1,,True,84.637,False,False,,84.637,0.0,True
+OCO,Haas F1 Team,15,4,SOFT,3.0,True,1,,False,129.765,True,False,in-lap,84.637,,False
+OCO,Haas F1 Team,16,5,SOFT,4.0,False,1,,False,,False,True,no lap time,84.407,,False
+OCO,Haas F1 Team,17,5,SOFT,5.0,False,1,,True,84.407,False,False,,84.407,0.0,True
+OCO,Haas F1 Team,18,5,SOFT,6.0,False,1,,False,122.1,True,False,in-lap,84.407,,False
+OCO,Haas F1 Team,19,6,SOFT,7.0,False,1,,False,,False,True,no lap time,87.738,,False
+OCO,Haas F1 Team,20,6,SOFT,8.0,False,1,,True,87.507,False,False,,87.738,-0.2632838678793619,True
+OCO,Haas F1 Team,21,6,SOFT,9.0,False,1,,True,87.582,False,False,,87.738,-0.17780209259386573,True
+OCO,Haas F1 Team,22,6,SOFT,10.0,False,1,,True,90.111,False,False,outside 2% of stint median,87.738,2.704643370033514,False
+OCO,Haas F1 Team,23,6,SOFT,11.0,False,1,,True,87.403,False,False,,87.738,-0.381818596275267,True
+OCO,Haas F1 Team,24,6,SOFT,12.0,False,1,,True,88.416,False,False,,87.738,0.7727552485809994,True
+OCO,Haas F1 Team,25,6,SOFT,13.0,False,1,,True,87.738,False,False,,87.738,0.0,True
+OCO,Haas F1 Team,26,6,SOFT,14.0,False,1,,True,88.203,False,False,,87.738,0.5299870067701605,True
+OCO,Haas F1 Team,27,6,SOFT,15.0,False,1,,True,87.734,False,False,,87.738,-0.004559028015232725,True
+OCO,Haas F1 Team,28,6,SOFT,16.0,False,1,,True,119.754,False,False,outside 2% of stint median,87.738,36.49046023387814,False
+OCO,Haas F1 Team,29,6,SOFT,17.0,False,1,,False,,False,False,no lap time,87.738,,False
+OCO,Haas F1 Team,30,6,SOFT,18.0,False,1,,False,131.369,True,False,in-lap,87.738,,False
+LIN,Racing Bulls,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,98.5805,,False
+LIN,Racing Bulls,2,1,MEDIUM,2.0,True,1,,True,84.258,False,False,outside 2% of stint median,98.5805,-14.528735398988648,False
+LIN,Racing Bulls,3,1,MEDIUM,3.0,True,1,,True,129.489,False,False,outside 2% of stint median,98.5805,31.35356383869021,False
+LIN,Racing Bulls,4,1,MEDIUM,4.0,True,1,,True,83.807,False,False,outside 2% of stint median,98.5805,-14.98622952815212,False
+LIN,Racing Bulls,5,1,MEDIUM,5.0,True,1,,True,124.35,False,False,outside 2% of stint median,98.5805,26.14056532478532,False
+LIN,Racing Bulls,6,1,MEDIUM,6.0,True,1,,True,112.903,False,False,outside 2% of stint median,98.5805,14.528735398988648,False
+LIN,Racing Bulls,7,1,MEDIUM,7.0,True,1,,True,83.468,False,False,outside 2% of stint median,98.5805,-15.33011092457433,False
+LIN,Racing Bulls,8,1,MEDIUM,8.0,True,1,,False,118.603,True,False,in-lap,98.5805,,False
+LIN,Racing Bulls,9,2,SOFT,1.0,True,1,,False,,False,True,no lap time,83.465,,False
+LIN,Racing Bulls,10,2,SOFT,2.0,True,1,,True,83.465,False,False,,83.465,0.0,True
+LIN,Racing Bulls,11,2,SOFT,3.0,True,1,,False,124.455,True,False,in-lap,83.465,,False
+LIN,Racing Bulls,12,3,SOFT,4.0,False,1,,False,143.074,False,True,out-lap,83.349,,False
+LIN,Racing Bulls,13,3,SOFT,5.0,False,1,,True,83.349,False,False,,83.349,0.0,True
+LIN,Racing Bulls,14,3,SOFT,6.0,False,1,,False,115.955,True,False,in-lap,83.349,,False
+LIN,Racing Bulls,15,4,MEDIUM,9.0,False,1,,False,,False,True,no lap time,86.974,,False
+LIN,Racing Bulls,16,4,MEDIUM,10.0,False,1,,True,87.398,False,False,,86.974,0.48750201209556,True
+LIN,Racing Bulls,17,4,MEDIUM,11.0,False,1,,True,87.091,False,False,,86.974,0.13452296088485088,True
+LIN,Racing Bulls,18,4,MEDIUM,12.0,False,1,,True,87.295,False,False,,86.974,0.36907581576102966,True
+LIN,Racing Bulls,19,4,MEDIUM,13.0,False,1,,True,86.27,False,False,,86.974,-0.8094373031020853,True
+LIN,Racing Bulls,20,4,MEDIUM,14.0,False,1,,True,87.072,False,False,,86.974,0.11267735185227651,True
+LIN,Racing Bulls,21,4,MEDIUM,15.0,False,1,,True,87.121,False,False,,86.974,0.1690160277784066,True
+LIN,Racing Bulls,22,4,MEDIUM,16.0,False,1,,True,86.876,False,False,,86.974,-0.11267735185227651,True
+LIN,Racing Bulls,23,4,MEDIUM,17.0,False,1,,True,86.817,False,False,,86.974,-0.18051371674294694,True
+LIN,Racing Bulls,24,4,MEDIUM,18.0,False,1,,True,86.799,False,False,,86.974,-0.20120955687906403,True
+LIN,Racing Bulls,25,4,MEDIUM,19.0,False,1,,True,86.505,False,False,,86.974,-0.53924161243591,True
+LIN,Racing Bulls,26,4,MEDIUM,20.0,False,1,,False,111.934,True,False,in-lap,86.974,,False
+COL,Alpine,1,1,HARD,1.0,True,1,,False,,False,True,no lap time,85.013,,False
+COL,Alpine,2,1,HARD,2.0,True,1,,True,85.174,False,False,,85.013,0.1893828002776062,True
+COL,Alpine,3,1,HARD,3.0,True,1,,False,,False,False,no lap time,85.013,,False
+COL,Alpine,4,1,HARD,4.0,True,1,,True,84.852,False,False,,85.013,-0.1893828002776062,True
+COL,Alpine,5,1,HARD,5.0,True,1,,True,142.42,False,False,outside 2% of stint median,85.013,67.52731935115803,False
+COL,Alpine,6,1,HARD,6.0,True,1,,True,84.248,False,False,,85.013,-0.899862373989861,True
+COL,Alpine,7,1,HARD,7.0,True,1,,True,147.439,False,False,outside 2% of stint median,85.013,73.4311222989425,False
+COL,Alpine,8,1,HARD,8.0,True,1,,True,84.361,False,False,,85.013,-0.7669415265900521,True
+COL,Alpine,9,1,HARD,9.0,True,1,,False,123.286,True,False,in-lap,85.013,,False
+COL,Alpine,10,2,SOFT,1.0,True,1,,False,,False,True,no lap time,97.577,,False
+COL,Alpine,11,2,SOFT,2.0,True,1,,True,83.619,False,False,outside 2% of stint median,97.577,-14.304600469372902,False
+COL,Alpine,12,2,SOFT,3.0,True,1,,False,,False,False,no lap time,97.577,,False
+COL,Alpine,13,2,SOFT,4.0,True,1,,True,111.535,False,False,outside 2% of stint median,97.577,14.304600469372902,False
+COL,Alpine,14,2,SOFT,5.0,True,1,,False,114.485,True,False,in-lap,97.577,,False
+COL,Alpine,15,3,SOFT,6.0,False,1,,False,,False,True,no lap time,87.158,,False
+COL,Alpine,16,3,SOFT,7.0,False,1,,True,87.319,False,False,,87.158,0.18472199912802195,True
+COL,Alpine,17,3,SOFT,8.0,False,1,,True,87.158,False,False,,87.158,0.0,True
+COL,Alpine,18,3,SOFT,9.0,False,1,,True,86.775,False,False,,87.158,-0.4394318364349751,True
+COL,Alpine,19,3,SOFT,10.0,False,1,,True,86.699,False,False,,87.158,-0.5266297987562853,True
+COL,Alpine,20,3,SOFT,11.0,False,1,,True,86.632,False,False,,87.158,-0.6035016865921616,True
+COL,Alpine,21,3,SOFT,12.0,False,1,,True,89.961,False,False,outside 2% of stint median,87.158,3.215998531402737,False
+COL,Alpine,22,3,SOFT,13.0,False,1,,True,88.34,False,False,,87.158,1.3561577824181397,True
+COL,Alpine,23,3,SOFT,14.0,False,1,,False,91.693,True,False,in-lap,87.158,,False
+COL,Alpine,24,4,HARD,10.0,False,1,,False,127.134,False,True,out-lap,124.107,,False
+COL,Alpine,25,4,HARD,11.0,False,1,,True,88.204,False,False,outside 2% of stint median,124.107,-28.929069270871107,False
+COL,Alpine,26,4,HARD,12.0,False,1,,True,124.107,False,False,,124.107,0.0,True
+COL,Alpine,27,4,HARD,13.0,False,1,,True,149.158,False,False,outside 2% of stint median,124.107,20.18500165180045,False
+COL,Alpine,28,4,HARD,14.0,False,1,,False,134.99,True,False,in-lap,124.107,,False
+HAM,Ferrari,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,83.831,,False
+HAM,Ferrari,2,1,MEDIUM,2.0,True,1,,True,83.831,False,False,,83.831,0.0,True
+HAM,Ferrari,3,1,MEDIUM,3.0,True,1,,False,143.833,True,False,in-lap,83.831,,False
+HAM,Ferrari,4,2,MEDIUM,4.0,False,1,,False,,False,True,no lap time,94.523,,False
+HAM,Ferrari,5,2,MEDIUM,5.0,False,1,,True,94.523,False,False,,94.523,0.0,True
+HAM,Ferrari,6,2,MEDIUM,6.0,False,1,,True,137.07,False,False,outside 2% of stint median,94.523,45.012325042582226,False
+HAM,Ferrari,7,2,MEDIUM,7.0,False,1,,True,84.029,False,False,outside 2% of stint median,94.523,-11.10205981612941,False
+HAM,Ferrari,8,2,MEDIUM,8.0,False,1,,False,106.199,True,False,in-lap,94.523,,False
+HAM,Ferrari,9,3,SOFT,1.0,True,1,,False,,False,True,no lap time,83.016,,False
+HAM,Ferrari,10,3,SOFT,2.0,True,1,,True,83.016,False,False,,83.016,0.0,True
+HAM,Ferrari,11,3,SOFT,3.0,True,1,,False,,True,False,no lap time,83.016,,False
+HAM,Ferrari,12,4,SOFT,4.0,False,1,,False,,False,True,no lap time,116.521,,False
+HAM,Ferrari,13,4,SOFT,5.0,False,1,,True,116.521,False,False,,116.521,0.0,True
+HAM,Ferrari,14,4,SOFT,6.0,False,1,,False,102.542,True,False,in-lap,116.521,,False
+HAM,Ferrari,15,5,SOFT,7.0,False,1,,False,,False,True,no lap time,86.373,,False
+HAM,Ferrari,16,5,SOFT,8.0,False,1,,True,86.424,False,False,,86.373,0.05904622972456894,True
+HAM,Ferrari,17,5,SOFT,9.0,False,1,,True,86.645,False,False,,86.373,0.31491322519767906,True
+HAM,Ferrari,18,5,SOFT,10.0,False,1,,True,86.373,False,False,,86.373,0.0,True
+HAM,Ferrari,19,5,SOFT,11.0,False,1,,True,86.022,False,False,,86.373,-0.40637699281025214,True
+HAM,Ferrari,20,5,SOFT,12.0,False,1,,True,86.419,False,False,,86.373,0.05325738367312964,True
+HAM,Ferrari,21,5,SOFT,13.0,False,1,,True,86.002,False,False,,86.373,-0.4295323770159764,True
+HAM,Ferrari,22,5,SOFT,14.0,False,1,,True,86.254,False,False,,86.373,-0.1377745360239887,True
+HAM,Ferrari,23,5,SOFT,15.0,False,1,,True,85.756,False,False,,86.373,-0.7143436027462337,True
+HAM,Ferrari,24,5,SOFT,16.0,False,1,,True,86.261,False,False,,86.373,-0.129670151552,True
+HAM,Ferrari,25,5,SOFT,17.0,False,1,,True,115.285,False,False,outside 2% of stint median,86.373,33.47342340777789,False
+HAM,Ferrari,26,5,SOFT,18.0,False,1,,True,142.738,False,False,outside 2% of stint median,86.373,65.25766153774904,False
+HAM,Ferrari,27,5,SOFT,19.0,False,1,,False,136.112,True,False,in-lap,86.373,,False
+SAI,Williams,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,84.985,,False
+SAI,Williams,2,1,MEDIUM,2.0,True,1,,True,84.985,False,False,,84.985,0.0,True
+SAI,Williams,3,1,MEDIUM,3.0,True,1,,True,141.083,False,False,outside 2% of stint median,84.985,66.00929575807496,False
+SAI,Williams,4,1,MEDIUM,4.0,True,1,,True,84.912,False,False,,84.985,-0.08589751132552015,True
+SAI,Williams,5,1,MEDIUM,5.0,True,1,,True,137.849,False,False,outside 2% of stint median,84.985,62.203918338530315,False
+SAI,Williams,6,1,MEDIUM,6.0,True,1,,True,84.587,False,False,,84.985,-0.46831793845972364,True
+SAI,Williams,7,1,MEDIUM,7.0,True,1,,False,126.647,True,False,in-lap,84.985,,False
+SAI,Williams,8,2,MEDIUM,8.0,False,1,,False,136.253,False,True,out-lap,115.047,,False
+SAI,Williams,9,2,MEDIUM,9.0,False,1,,True,115.047,False,False,,115.047,0.0,True
+SAI,Williams,10,2,MEDIUM,10.0,False,1,,False,98.025,True,False,in-lap,115.047,,False
+SAI,Williams,11,3,SOFT,1.0,True,1,,False,,False,True,no lap time,102.4455,,False
+SAI,Williams,12,3,SOFT,2.0,True,1,,True,83.9,False,False,outside 2% of stint median,102.4455,-18.102796120864255,False
+SAI,Williams,13,3,SOFT,3.0,True,1,,True,129.086,False,False,outside 2% of stint median,102.4455,26.004558521360153,False
+SAI,Williams,14,3,SOFT,4.0,True,1,,True,120.865,False,False,outside 2% of stint median,102.4455,17.979803895729923,False
+SAI,Williams,15,3,SOFT,5.0,True,1,,True,84.026,False,False,outside 2% of stint median,102.4455,-17.979803895729923,False
+SAI,Williams,16,3,SOFT,6.0,True,1,,False,108.388,True,False,in-lap,102.4455,,False
+SAI,Williams,17,4,SOFT,7.0,False,1,,False,,False,True,no lap time,87.43299999999999,,False
+SAI,Williams,18,4,SOFT,8.0,False,1,,True,87.439,False,False,,87.43299999999999,0.00686239749293771,True
+SAI,Williams,19,4,SOFT,9.0,False,1,,True,87.427,False,False,,87.43299999999999,-0.006862397492921456,True
+SAI,Williams,20,4,SOFT,10.0,False,1,,True,87.337,False,False,,87.43299999999999,-0.1097983598869871,True
+SAI,Williams,21,4,SOFT,11.0,False,1,,True,89.029,False,False,,87.43299999999999,1.8253977331213658,True
+SAI,Williams,22,4,SOFT,12.0,False,1,,True,87.293,False,False,,87.43299999999999,-0.1601226081685249,True
+SAI,Williams,23,4,SOFT,13.0,False,1,,True,87.333,False,False,,87.43299999999999,-0.114373291548951,True
+SAI,Williams,24,4,SOFT,14.0,False,1,,True,87.539,False,False,,87.43299999999999,0.12123568904190496,True
+SAI,Williams,25,4,SOFT,15.0,False,1,,True,87.341,False,False,,87.43299999999999,-0.10522342822503947,True
+SAI,Williams,26,4,SOFT,16.0,False,1,,True,87.363,False,False,,87.43299999999999,-0.08006130408426244,True
+SAI,Williams,27,4,SOFT,17.0,False,1,,True,88.073,False,False,,87.43299999999999,0.7319890659133287,True
+SAI,Williams,28,4,SOFT,18.0,False,1,,True,110.147,False,False,outside 2% of stint median,87.43299999999999,25.97874944243022,False
+SAI,Williams,29,4,SOFT,19.0,False,1,,True,136.124,False,False,outside 2% of stint median,87.43299999999999,55.6894993881029,False
+SAI,Williams,30,4,SOFT,20.0,False,1,,False,127.343,True,False,in-lap,87.43299999999999,,False
+RUS,Mercedes,1,1,HARD,1.0,True,1,,False,,False,True,no lap time,83.625,,False
+RUS,Mercedes,2,1,HARD,2.0,True,1,,True,83.625,False,False,,83.625,0.0,True
+RUS,Mercedes,3,1,HARD,3.0,True,1,,True,149.526,False,False,outside 2% of stint median,83.625,78.8053811659193,False
+RUS,Mercedes,4,1,HARD,4.0,True,1,,True,83.434,False,False,,83.625,-0.22840059790732736,True
+RUS,Mercedes,5,1,HARD,5.0,True,1,,False,148.684,True,False,in-lap,83.625,,False
+RUS,Mercedes,6,2,HARD,6.0,False,1,,False,135.048,False,True,out-lap,83.202,,False
+RUS,Mercedes,7,2,HARD,7.0,False,1,,True,83.202,False,False,,83.202,0.0,True
+RUS,Mercedes,8,2,HARD,8.0,False,1,,False,109.715,True,False,in-lap,83.202,,False
+RUS,Mercedes,9,3,SOFT,1.0,True,1,,False,,True,True,no lap time,,,False
+RUS,Mercedes,10,4,SOFT,2.0,False,1,,False,131.498,False,True,out-lap,104.2445,,False
+RUS,Mercedes,11,4,SOFT,3.0,False,1,,True,82.686,False,False,outside 2% of stint median,104.2445,-20.68070737544906,False
+RUS,Mercedes,12,4,SOFT,4.0,False,1,,True,145.346,False,False,outside 2% of stint median,104.2445,39.427979413782026,False
+RUS,Mercedes,13,4,SOFT,5.0,False,1,,True,125.803,False,False,outside 2% of stint median,104.2445,20.68070737544906,False
+RUS,Mercedes,14,4,SOFT,6.0,False,1,,True,82.559,False,False,outside 2% of stint median,104.2445,-20.80253634484314,False
+RUS,Mercedes,15,4,SOFT,7.0,False,1,,False,116.26,True,False,in-lap,104.2445,,False
+RUS,Mercedes,16,5,HARD,9.0,False,1,,False,,False,True,no lap time,86.14750000000001,,False
+RUS,Mercedes,17,5,HARD,10.0,False,1,,True,86.11,False,False,,86.14750000000001,-0.04352999216461131,True
+RUS,Mercedes,18,5,HARD,11.0,False,1,,True,86.381,False,False,,86.14750000000001,0.2710467512115758,True
+RUS,Mercedes,19,5,HARD,12.0,False,1,,True,86.304,False,False,,86.14750000000001,0.181665167300263,True
+RUS,Mercedes,20,5,HARD,13.0,False,1,,True,86.155,False,False,,86.14750000000001,0.008705998432912363,True
+RUS,Mercedes,21,5,HARD,14.0,False,1,,True,85.975,False,False,,86.14750000000001,-0.2002379639571823,True
+RUS,Mercedes,22,5,HARD,15.0,False,1,,True,86.14,False,False,,86.14750000000001,-0.008705998432928859,True
+RUS,Mercedes,23,5,HARD,16.0,False,1,,True,85.943,False,False,,86.14750000000001,-0.2373835572709714,True
+RUS,Mercedes,24,5,HARD,17.0,False,1,,True,87.175,False,False,,86.14750000000001,1.192721785310066,True
+RUS,Mercedes,25,5,HARD,18.0,False,1,,True,85.742,False,False,,86.14750000000001,-0.4707043152732273,True
+RUS,Mercedes,26,5,HARD,19.0,False,1,,True,86.158,False,False,,86.14750000000001,0.012188397806080607,True
+RUS,Mercedes,27,5,HARD,20.0,False,1,,False,90.901,True,False,in-lap,86.14750000000001,,False
+RUS,Mercedes,28,6,SOFT,8.0,False,1,,False,,False,True,no lap time,122.936,,False
+RUS,Mercedes,29,6,SOFT,9.0,False,1,,True,122.936,False,False,,122.936,0.0,True
+RUS,Mercedes,30,6,SOFT,10.0,False,1,,False,,False,False,no lap time,122.936,,False
+RUS,Mercedes,31,6,SOFT,11.0,False,12,,False,148.9,True,False,in-lap,122.936,,False
+BOT,Cadillac,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,86.314,,False
+BOT,Cadillac,2,1,MEDIUM,2.0,True,1,,True,86.107,False,False,,86.314,-0.23982204509117136,True
+BOT,Cadillac,3,1,MEDIUM,3.0,True,1,,True,124.583,False,False,outside 2% of stint median,86.314,44.33695576615614,False
+BOT,Cadillac,4,1,MEDIUM,4.0,True,1,,True,86.314,False,False,,86.314,0.0,True
+BOT,Cadillac,5,1,MEDIUM,5.0,True,1,,False,129.47,True,False,in-lap,86.314,,False
+BOT,Cadillac,6,2,MEDIUM,6.0,False,1,,False,135.392,False,True,out-lap,86.19,,False
+BOT,Cadillac,7,2,MEDIUM,7.0,False,1,,True,86.19,False,False,,86.19,0.0,True
+BOT,Cadillac,8,2,MEDIUM,8.0,False,1,,False,119.146,True,False,in-lap,86.19,,False
+BOT,Cadillac,9,3,SOFT,1.0,True,1,,False,,False,True,no lap time,108.595,,False
+BOT,Cadillac,10,3,SOFT,2.0,True,1,,True,85.149,False,False,outside 2% of stint median,108.595,-21.59031262949491,False
+BOT,Cadillac,11,3,SOFT,3.0,True,1,,True,131.993,False,False,outside 2% of stint median,108.595,21.546111699433673,False
+BOT,Cadillac,12,3,SOFT,4.0,True,1,,True,117.475,False,False,outside 2% of stint median,108.595,8.177172061328786,False
+BOT,Cadillac,13,3,SOFT,5.0,True,1,,True,108.595,False,False,,108.595,0.0,True
+BOT,Cadillac,14,3,SOFT,6.0,True,1,,True,85.216,False,False,outside 2% of stint median,108.595,-21.528615497951108,False
+BOT,Cadillac,15,3,SOFT,7.0,True,1,,False,116.773,True,False,in-lap,108.595,,False
+BOT,Cadillac,16,4,SOFT,8.0,False,1,,False,,False,True,no lap time,88.518,,False
+BOT,Cadillac,17,4,SOFT,9.0,False,1,,True,88.155,False,False,,88.518,-0.4100860841862667,True
+BOT,Cadillac,18,4,SOFT,10.0,False,1,,True,88.225,False,False,,88.518,-0.3310061230484267,True
+BOT,Cadillac,19,4,SOFT,11.0,False,1,,True,89.186,False,False,,88.518,0.7546487720011821,True
+BOT,Cadillac,20,4,SOFT,12.0,False,1,,True,88.09,False,False,,88.518,-0.4835174766714084,True
+BOT,Cadillac,21,4,SOFT,13.0,False,1,,True,88.171,False,False,,88.518,-0.39201066449760974,True
+BOT,Cadillac,22,4,SOFT,14.0,False,1,,True,88.081,False,False,,88.518,-0.49368490024627487,True
+BOT,Cadillac,23,4,SOFT,15.0,False,1,,True,88.518,False,False,,88.518,0.0,True
+BOT,Cadillac,24,4,SOFT,16.0,False,1,,True,88.756,False,False,,88.518,0.26887186786868156,True
+BOT,Cadillac,25,4,SOFT,17.0,False,1,,True,88.758,False,False,,88.518,0.27113129532975766,True
+BOT,Cadillac,26,4,SOFT,18.0,False,1,,True,119.747,False,False,outside 2% of stint median,88.518,35.279830091054926,False
+BOT,Cadillac,27,4,SOFT,19.0,False,1,,True,144.705,False,False,outside 2% of stint median,88.518,63.47522537788925,False
+BOT,Cadillac,28,4,SOFT,20.0,False,1,,False,129.627,True,False,in-lap,88.518,,False
+PIA,McLaren,1,1,HARD,1.0,True,1,,False,,False,True,no lap time,84.466,,False
+PIA,McLaren,2,1,HARD,2.0,True,1,,True,84.466,False,False,,84.466,0.0,True
+PIA,McLaren,3,1,HARD,3.0,True,1,,True,133.348,False,False,outside 2% of stint median,84.466,57.871806407311844,False
+PIA,McLaren,4,1,HARD,4.0,True,1,,True,84.059,False,False,,84.466,-0.48185068548291204,True
+PIA,McLaren,5,1,HARD,5.0,True,1,,True,138.603,False,False,outside 2% of stint median,84.466,64.09324461913671,False
+PIA,McLaren,6,1,HARD,6.0,True,1,,True,83.855,False,False,,84.466,-0.7233679823834325,True
+PIA,McLaren,7,1,HARD,7.0,True,1,,False,121.648,True,False,in-lap,84.466,,False
+PIA,McLaren,8,2,SOFT,1.0,True,1,,False,,False,True,no lap time,120.863,,False
+PIA,McLaren,9,2,SOFT,2.0,True,1,,True,120.863,False,False,,120.863,0.0,True
+PIA,McLaren,10,2,SOFT,3.0,True,1,,True,83.028,False,False,outside 2% of stint median,120.863,-31.304038456765095,False
+PIA,McLaren,11,2,SOFT,4.0,True,1,,True,123.674,False,False,outside 2% of stint median,120.863,2.3257738100163055,False
+PIA,McLaren,12,2,SOFT,5.0,True,1,,True,131.219,False,False,outside 2% of stint median,120.863,8.568379073827387,False
+PIA,McLaren,13,2,SOFT,6.0,True,1,,True,83.219,False,False,outside 2% of stint median,120.863,-31.14600829037837,False
+PIA,McLaren,14,2,SOFT,7.0,True,1,,False,107.015,True,False,in-lap,120.863,,False
+PIA,McLaren,15,3,HARD,8.0,False,1,,False,,False,True,no lap time,86.666,,False
+PIA,McLaren,16,3,HARD,9.0,False,1,,True,86.467,False,False,,86.666,-0.22961715090115856,True
+PIA,McLaren,17,3,HARD,10.0,False,1,,True,86.292,False,False,,86.666,-0.4315417810906183,True
+PIA,McLaren,18,3,HARD,11.0,False,1,,True,86.865,False,False,,86.666,0.22961715090115856,True
+PIA,McLaren,19,3,HARD,12.0,False,1,,True,87.211,False,False,,86.666,0.6288509911614725,True
+PIA,McLaren,20,3,HARD,13.0,False,1,,False,90.876,True,False,in-lap,86.666,,False
+PIA,McLaren,21,4,SOFT,8.0,False,1,,False,111.721,False,True,out-lap,102.672,,False
+PIA,McLaren,22,4,SOFT,9.0,False,1,,True,86.406,False,False,outside 2% of stint median,102.672,-15.842683496961188,False
+PIA,McLaren,23,4,SOFT,10.0,False,1,,True,102.672,False,False,,102.672,0.0,True
+PIA,McLaren,24,4,SOFT,11.0,False,1,,True,145.584,False,False,outside 2% of stint median,102.672,41.7952314165498,False
+PIA,McLaren,25,4,SOFT,12.0,False,1,,False,,False,False,no lap time,102.672,,False
+PIA,McLaren,26,4,SOFT,13.0,False,12,,False,142.103,True,False,in-lap,102.672,,False
+BEA,Haas F1 Team,1,1,MEDIUM,1.0,True,1,,False,,False,True,no lap time,85.238,,False
+BEA,Haas F1 Team,2,1,MEDIUM,2.0,True,1,,True,85.238,False,False,,85.238,0.0,True
+BEA,Haas F1 Team,3,1,MEDIUM,3.0,True,1,,False,,True,False,no lap time,85.238,,False
+BEA,Haas F1 Team,4,2,MEDIUM,4.0,False,1,,False,,False,True,no lap time,84.961,,False
+BEA,Haas F1 Team,5,2,MEDIUM,5.0,False,1,,True,84.961,False,False,,84.961,0.0,True
+BEA,Haas F1 Team,6,2,MEDIUM,6.0,False,1,,False,,True,False,no lap time,84.961,,False
+BEA,Haas F1 Team,7,3,MEDIUM,7.0,False,1,,False,,False,True,no lap time,102.0815,,False
+BEA,Haas F1 Team,8,3,MEDIUM,8.0,False,1,,True,119.044,False,False,outside 2% of stint median,102.0815,16.616624951631774,False
+BEA,Haas F1 Team,9,3,MEDIUM,9.0,False,1,,True,85.119,False,False,outside 2% of stint median,102.0815,-16.61662495163179,False
+BEA,Haas F1 Team,10,3,MEDIUM,10.0,False,1,,False,122.825,True,False,in-lap,102.0815,,False
+BEA,Haas F1 Team,11,4,SOFT,1.0,True,1,,False,,False,True,no lap time,83.69,,False
+BEA,Haas F1 Team,12,4,SOFT,2.0,True,1,,True,83.69,False,False,,83.69,0.0,True
+BEA,Haas F1 Team,13,4,SOFT,3.0,True,1,,False,139.809,True,False,in-lap,83.69,,False
+BEA,Haas F1 Team,14,5,SOFT,4.0,False,1,,False,,False,True,no lap time,108.2655,,False
+BEA,Haas F1 Team,15,5,SOFT,5.0,False,1,,True,133.161,False,False,outside 2% of stint median,108.2655,22.994859858403643,False
+BEA,Haas F1 Team,16,5,SOFT,6.0,False,1,,True,83.37,False,False,outside 2% of stint median,108.2655,-22.994859858403643,False
+BEA,Haas F1 Team,17,5,SOFT,7.0,False,1,,False,95.143,True,False,in-lap,108.2655,,False
+BEA,Haas F1 Team,18,6,MEDIUM,11.0,False,1,,False,,False,True,no lap time,87.779,,False
+BEA,Haas F1 Team,19,6,MEDIUM,12.0,False,1,,True,92.615,False,False,outside 2% of stint median,87.779,5.5092903769694335,False
+BEA,Haas F1 Team,20,6,MEDIUM,13.0,False,1,,True,87.779,False,False,,87.779,0.0,True
+BEA,Haas F1 Team,21,6,MEDIUM,14.0,False,1,,True,86.827,False,False,,87.779,-1.084541860809531,True
+BEA,Haas F1 Team,22,6,MEDIUM,15.0,False,1,,True,88.763,False,False,,87.779,1.120997049408183,True
+BEA,Haas F1 Team,23,6,MEDIUM,16.0,False,1,,True,104.987,False,False,outside 2% of stint median,87.779,19.603777668918532,False
+BEA,Haas F1 Team,24,6,MEDIUM,17.0,False,1,,True,86.847,False,False,,87.779,-1.0617573679353858,True
+BEA,Haas F1 Team,25,6,MEDIUM,18.0,False,1,,True,87.476,False,False,,87.779,-0.3451850670433672,True
+BEA,Haas F1 Team,26,6,MEDIUM,19.0,False,1,,True,87.342,False,False,,87.779,-0.4978411693001716,True
+BEA,Haas F1 Team,27,6,MEDIUM,20.0,False,1,,True,105.738,False,False,outside 2% of stint median,87.779,20.459335376342864,False
+BEA,Haas F1 Team,28,6,MEDIUM,21.0,False,1,,False,,False,False,no lap time,87.779,,False
+BEA,Haas F1 Team,29,6,MEDIUM,22.0,False,1,,False,126.62,True,False,in-lap,87.779,,False
