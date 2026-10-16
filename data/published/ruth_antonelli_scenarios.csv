@@ -1,0 +1,16 @@
+strategy,strategy_label,sc_lap,position,gap_to_winner_s
+A,Box lap 1 - hard to the flag,none,4,4.4
+A,Box lap 1 - hard to the flag,1,9,21.6
+A,Box lap 1 - hard to the flag,5,11,24.4
+A,Box lap 1 - hard to the flag,20,10,18.7
+A,Box lap 1 - hard to the flag,35,4,4.3
+B,Start hard - medium at lap 36,none,6,6.4
+B,Start hard - medium at lap 36,1,9,21.5
+B,Start hard - medium at lap 36,5,10,22.1
+B,Start hard - medium at lap 36,20,8,14.1
+B,Start hard - medium at lap 36,35,1,0.0
+C,Conventional - medium then hard at lap 20,none,8,9.8
+C,Conventional - medium then hard at lap 20,1,9,21.6
+C,Conventional - medium then hard at lap 20,5,9,19.7
+C,Conventional - medium then hard at lap 20,20,8,9.7
+C,Conventional - medium then hard at lap 20,35,8,9.9

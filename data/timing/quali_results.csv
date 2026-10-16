@@ -1,0 +1,23 @@
+Abbreviation,FullName,TeamName,Position,Q1_s,Q2_s,Q3_s
+GAS,Pierre Gasly,Alpine,1.0,82.612,82.077,81.786
+RUS,George Russell,Mercedes,2.0,82.779,82.161,81.846
+PIA,Oscar Piastri,McLaren,3.0,82.924,82.017,81.966
+LEC,Charles Leclerc,Ferrari,4.0,82.902,82.509,82.004
+HAM,Lewis Hamilton,Ferrari,5.0,82.847,82.516,82.011
+VER,Max Verstappen,Red Bull Racing,6.0,82.631,82.188,82.07
+ANT,Kimi Antonelli,Mercedes,7.0,82.758,81.882,82.093
+COL,Franco Colapinto,Alpine,8.0,82.662,82.4,82.22
+NOR,Lando Norris,McLaren,9.0,82.659,82.067,82.256
+LIN,Arvid Lindblad,Racing Bulls,10.0,82.727,82.345,82.286
+BOR,Gabriel Bortoleto,Audi,11.0,82.946,82.517,
+BEA,Oliver Bearman,Haas F1 Team,12.0,82.906,82.756,
+HUL,Nico Hulkenberg,Audi,13.0,83.44,82.779,
+LAW,Liam Lawson,Red Bull Racing,14.0,82.989,82.821,
+SAI,Carlos Sainz,Williams,15.0,83.616,83.453,
+OCO,Esteban Ocon,Haas F1 Team,16.0,83.466,83.454,
+TSU,Yuki Tsunoda,Racing Bulls,17.0,83.755,,
+ALB,Alexander Albon,Williams,18.0,84.356,,
+BOT,Valtteri Bottas,Cadillac,19.0,84.364,,
+PER,Sergio Perez,Cadillac,20.0,84.595,,
+ALO,Fernando Alonso,Aston Martin,21.0,85.15,,
+STR,Lance Stroll,Aston Martin,22.0,85.222,,

@@ -1,0 +1,23 @@
+position,driver_number,number_of_laps,points,dnf,dns,dsq,duration,gap_to_leader,meeting_key,session_key,name_acronym,team_name
+1.0,12,53,25.0,False,False,False,6675.281,0,1293,11361,ANT,Mercedes
+2.0,63,53,18.0,False,False,False,6679.138,3.857,1293,11361,RUS,Mercedes
+3.0,3,53,15.0,False,False,False,6689.999,14.718,1293,11361,VER,Red Bull Racing
+4.0,1,53,12.0,False,False,False,6694.337,19.056,1293,11361,NOR,McLaren
+5.0,81,53,10.0,False,False,False,6694.534,19.253,1293,11361,PIA,McLaren
+6.0,44,53,8.0,False,False,False,6699.936,24.655,1293,11361,HAM,Ferrari
+7.0,10,53,6.0,False,False,False,6702.632,27.351,1293,11361,GAS,Alpine
+8.0,41,53,4.0,False,False,False,6720.417,45.136,1293,11361,LIN,Racing Bulls
+9.0,43,53,2.0,False,False,False,6722.634,47.353,1293,11361,COL,Alpine
+10.0,22,53,1.0,False,False,False,6733.468,58.187,1293,11361,TSU,Racing Bulls
+11.0,5,53,0.0,False,False,False,6740.468,65.187,1293,11361,BOR,Audi
+12.0,27,53,0.0,False,False,False,6741.468,66.187,1293,11361,HUL,Audi
+13.0,55,53,0.0,False,False,False,6749.398,74.117,1293,11361,SAI,Williams
+14.0,30,53,0.0,False,False,False,6750.89,75.609,1293,11361,LAW,Red Bull Racing
+15.0,87,53,0.0,False,False,False,6754.239,78.958,1293,11361,BEA,Haas F1 Team
+16.0,31,52,0.0,False,False,False,,+1 LAP,1293,11361,OCO,Haas F1 Team
+17.0,23,52,0.0,False,False,False,,+1 LAP,1293,11361,ALB,Williams
+18.0,11,52,0.0,False,False,False,,+1 LAP,1293,11361,PER,Cadillac
+19.0,77,51,0.0,False,False,False,,+2 LAPS,1293,11361,BOT,Cadillac
+,18,26,0.0,True,False,False,,,1293,11361,STR,Aston Martin
+,14,23,0.0,True,False,False,,,1293,11361,ALO,Aston Martin
+,16,1,0.0,True,False,False,,,1293,11361,LEC,Ferrari
