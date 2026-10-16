@@ -1,0 +1,15 @@
+yaml_sha256=6fab5ef64f28b43c19077052ea8442917f3d14f59f0c5c78074e0cb373c6ab6b
+code_sha256=6f284056ee763dafc8529f609bf5a89d4700ac4ce13f6300a24067e174861f97
+effective_spec_sha256=454f4b22ed827b5457c4e81681a58d43c456629b6d4830a0dd2fb87aa55a095c
+
+# Fingerprints of the model used by the executed notebook.
+#
+# yaml_sha256            SHA-256 of config/monza_2026.yaml (file bytes)
+# code_sha256            SHA-256 over racesim/*.py as written by the notebook (racesim.config.code_fingerprint)
+# effective_spec_sha256  SHA-256 of everything the simulator consumes: the parsed specification (parameters,
+#                        strategies, field plan, pace-set choices, fixed choices, Safety-Car scenarios), the
+#                        baseline pace vector, the field's pit laps and the grid (racesim.config.effective_fingerprint)
+#
+# The notebook (section 8.1) stops if any of these differ. The hashes establish that the files and the effective
+# model are byte-identical to the ones recorded here; they do not establish when anything was written. Any change
+# to the code or the configuration requires re-recording these values.
